@@ -1,0 +1,705 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KnowledgeBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Rules>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>59FE433176F805A</Id>
+          <Text>Name</Text>
+          <Condition>What is your Name ?</Condition>
+        </Input>
+        <Input>
+          <Id>B0B1A30BDF0847D1</Id>
+          <Text>What is your name ?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E401D34B61AB250B</Id>
+          <Text>name ?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>146728AD7389A339</Id>
+          <Text>what are you called ?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>31599B6F71FC79EB</Id>
+          <Text>who r u ?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>800A3E627DCE8EE1</Id>
+          <Text>who are you ?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>13B58EDCE9B1FBF4</Id>
+          <Text>what is your chatbot name  ?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F504A6888B71E491</Id>
+          <Text>Hi</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>5A4811F0FDE96D74</Id>
+          <Text>hello</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>900C7B5AA4A001BC</Id>
+          <Text>Hi! My name is Julia and I am a chatbot application specalized in helping bipolar disorder patients.:-)</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>904B11C780E3952D</Id>
+      <Name>Name</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>D4871AC48F095177</Id>
+          <Text>*</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>FCBCD09EFD839689</Id>
+          <Text>Sorry I dont have an opinion related to your issue.:-(</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>22BF89851322E7C7</Id>
+      <Name>UNKNOWN</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>3AEE76EDBCA95E0E</Id>
+          <Text>_startup</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>49147F8FEFD2643C</Id>
+          <Text>Welcome to Sinclair Chatbot:-)</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>F6372293E802A0AD</Id>
+      <Name>_startup</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>DA150A408F8C7EE1</Id>
+          <Text>Bipolar</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B81AD0A7C5913F65</Id>
+          <Text>What is bipolar disorder?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>5B42C60859EFE75D</Id>
+          <Text>What is a bipolar disorder?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C4768846621B9E31</Id>
+          <Text>bipolar disorder  ?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>BD81499FAAF44ADC</Id>
+          <Text>bipolar ?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>3C526D20BB25FEE4</Id>
+          <Text>Bipolar disorder is defined by many as a mental disorder that causes mood swings and extreme shifts in energy, activity level, concentration, and the ability to carry out day-to-day tasks.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>2832628B92437539</Id>
+      <Name>Bipolar</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>63B34BB9247CB5E6</Id>
+          <Text>types</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>5EE41AC720730553</Id>
+          <Text>types of bipolar disorder ?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>43E4AB429DB357C</Id>
+          <Text>types of bipolar disorder</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>49B7E752EC4EE21B</Id>
+          <Text>bipolar disorder types</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>74F349F260A49F74</Id>
+          <Text>Bipolar disorder which was formerly called manic-depressive illness is recognized into three types Bipolar I, Bipolar II, and Cyclothymic disorders which differ between the duration and the intensity of the manic episodes.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>C782D0F35DAAE5</Id>
+      <Name>types</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>14439684B9841910</Id>
+          <Text>Symptoms</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>27A4B083317F5FDA</Id>
+          <Text>What are the symptoms?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>5DAC9FDFB57BD83B</Id>
+          <Text>What are the symptoms</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>25DD4DF5D4DB18</Id>
+          <Text>symptoms of bipolar</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B2B79857B8E9F7</Id>
+          <Text>symptoms of bipolar disorder?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>DDCD0B6D45D6FF9B</Id>
+          <Text>What are the symptoms of bipolar disorder?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>13A90239D3E2F6A0</Id>
+          <Text>What are the symptoms of bipolar disorder</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>A172B86040B67C56</Id>
+          <Text>People with bipolar disorder experience periods of unusually intense emotion, changes in sleep patterns and activity levels, and uncharacteristic behaviors which usually their signs such as Mania, Hypomania, and Major depressive episodes are not easily identified.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>7FF6B77C11AA3482</Id>
+      <Name>Symptom</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>4EB3245126CB14CA</Id>
+          <Text>Child</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D8254CD0D5D94E8</Id>
+          <Text>Symptoms in children and teens</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E88DFF7EB9995A32</Id>
+          <Text>Symptoms in children and teens?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F1096238B386C8FF</Id>
+          <Text>what are Symptoms in children?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>2F25EA40A60EBC12</Id>
+          <Text>what are Symptoms in teens?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E7A95BC595182C98</Id>
+          <Text>what are Symptoms in children</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>2346246CD5D9FF5A</Id>
+          <Text>what are Symptoms in teenagers</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C6F4EF929106FF3D</Id>
+          <Text>does it affect childern?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D2BFA5A1A858B7DA</Id>
+          <Text>How is it with childern?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>931F3BE74149F026</Id>
+          <Text>Symptoms of bipolar disorder can be difficult to identify in children and teens. It's often hard to tell whether these are normal ups and downs.The most prominent signs of bipolar disorder in children and teenagers may include severe mood swings that are different from their usual mood swings.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>2D4FC861C35FB3D</Id>
+      <Name>Child</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>35AEE0A0EB44E798</Id>
+          <Text>doctor</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A3C03C9E7DAE8D3E</Id>
+          <Text>When to see a doctor?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>4E67397B685FD2B8</Id>
+          <Text>when to visit the hospital?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C905A3B2513B5909</Id>
+          <Text>when to visit a psychiatrist?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A8FE136916EB4A22</Id>
+          <Text>when to visit a psychologist?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>86F53FCF1C36603</Id>
+          <Text>psychiatrist?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>9D5D15257F6A1A81</Id>
+          <Text>doctor?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>673BA104B261D542</Id>
+          <Text>clinic?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>29355DB275E04973</Id>
+          <Text>If you have any symptoms of depression or mania, see your doctor or mental health professional. Bipolar disorder doesn't get better on its own. Getting treatment from a mental health professional with experience in bipolar disorder can help you get your symptoms under control.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>A35C148F42EA445C</Id>
+      <Name>doctor</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>987082235590D6E7</Id>
+          <Text>emergency</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>6DBAA63EEB961E82</Id>
+          <Text>help</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>304B11875AE7C9BA</Id>
+          <Text>When to get emergency help?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>19C699B37EE9F9E2</Id>
+          <Text>When to get help?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>E9DAEC5FC4485A5</Id>
+          <Text>unfortunately suicidal thoughts and behavior are common among people with bipolar disorder. If you have thoughts of hurting yourself or if you have a loved one who is in danger of suicide or has made a suicide attempt please call your local emergency number immediately or call a call a suicide hotline number 1-800-273-8255</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>C25700925B619D7F</Id>
+      <Name>emergency</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>2C3DD65EA9BD5A5</Id>
+          <Text>causes</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E8F83592A036B126</Id>
+          <Text>What are the bipolar causes?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>18E764CF55427A74</Id>
+          <Text>What are the bipolar disorder causes?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>555B416623455C69</Id>
+          <Text>what causes the bipolar disorder?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>37E4F5D3E3F472D6</Id>
+          <Text>what causes the bipolar disorder in human beings?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F6DBF894D3AD1C81</Id>
+          <Text>what causes the bipolar disorder patients?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>A994360A924852A6</Id>
+          <Text>The exact biological causes for bipolar disorder are still unknown but several factor are involved such as Stress, brain structure and genetics.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>387F97CDD08DD9C3</Id>
+      <Name>cause</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>E936B8BF5D627A2C</Id>
+          <Text>treatment</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>4D556388CD9BE366</Id>
+          <Text>Is there any treatment for bipolar disorder?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F7F66B3BC69FD7A1</Id>
+          <Text>Is there any treatment ?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C803F70FAE15100F</Id>
+          <Text>Is there a treatment?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>3F0F9E2A3EB6C27</Id>
+          <Text>Is there a treatment for bipolar disorder?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D7D50C2FA76FD9F8</Id>
+          <Text>Is there any treatment for bipolar?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>1627C0ED3904BA93</Id>
+          <Text>treatments?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>4EE1DB82FD9B7F78</Id>
+          <Text>medications?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>B3C01AC81E1CFA81</Id>
+          <Text>the treatment methods are still lacking in results. However, there are still methods for treating and managing this disorder such as psychotherapy, medications, self-management strategies and complementary health approaches.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>42AE67AFBD07C93E</Id>
+      <Name>treatment</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>2278804C6CE6AD74</Id>
+          <Text>complications</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F87ABB97C3C4F0EF</Id>
+          <Text>what are the bipolar disorder complications?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E9BCA9AD972B1F3B</Id>
+          <Text>what are the bipolar disorder complications</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>4D27A270CA26452F</Id>
+          <Text>What can the bipolar disorder cause?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>ABC062E5C8014A0F</Id>
+          <Text>What can the bipolar disorder result?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>48B7FB5B4F0342</Id>
+          <Text>what are the complications of bipolar disorder?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D0E5BD76F8C6D0AC</Id>
+          <Text>what are the complications?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>8428CEFD852964AA</Id>
+          <Text>ignoring bipolar disorder</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>9D5B1843412A7A9A</Id>
+          <Text>can bipolar disorder left untreated?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>4D9B368B63D32532</Id>
+          <Text>can we ignore the bipolar disorder?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>5A29AE9618962DD9</Id>
+          <Text>when left untreated or ignored bipolar disorder can result in serious problems that affect every area of your life such as:Problems related to drug and alcohol use, Suicide or suicide attempts, Legal or financial problems, Damaged relationships and Poor work or school performance.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>A4CDB35D69E09788</Id>
+      <Name>complication</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>41641106ABB41ED1</Id>
+          <Text>prevent</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>1D202F9C928FBB78</Id>
+          <Text>preventions</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B37454E0D774FE2B</Id>
+          <Text>preventions?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>AE5F605CBF5F9290</Id>
+          <Text>How to prevent the disorder?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>1CD82A0C138400AE</Id>
+          <Text>How to prevent the bipolar disorder?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>1E2AC13BF153D34E</Id>
+          <Text>What are bipolar disorder preventions?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E36EB5EA33908B4</Id>
+          <Text>What are the preventions?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>6AF46A91AD78D22</Id>
+          <Text>If you've been diagnosed with bipolar disorder, some strategies can help prevent minor symptoms from becoming full-blown episodes of mania or depression.Addressing symptoms early on can prevent episodes from getting worse, avoiding drugs and alcohol and lastly taking medications as prescribed.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>A2E936DDD7C73E9</Id>
+      <Name>prevent</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>AAEC6F84EE4E1B45</Id>
+          <Text>Co-occurring conditions</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>387C0F6CEC49A4E</Id>
+          <Text>Is there any health conditions that occur with bipolar disorder ?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>585FDFD69452ADA8</Id>
+          <Text>Any related health conditions to bipolar disorder?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>3BECAEB4E5A513EA</Id>
+          <Text>Any related health conditions occurs with bipolar disorder?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>78B7976A4EBFE821</Id>
+          <Text>Can bipolar disorder cause any other health conditions?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>33296A945AF150AE</Id>
+          <Text>other health conditions</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A9D705A233F97D4C</Id>
+          <Text>others</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B2F7003D169EDCCE</Id>
+          <Text>other causes</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>83DD5A1917D0542D</Id>
+          <Text>other results</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D7AF184A9140C0EF</Id>
+          <Text>other symptoms</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>B43B24EC7AF4DB95</Id>
+          <Text>The bipolar disorder patient usually may enconter another health condition that needs to be treated along with bipolar disorder some of these conditions can worsen the symptoms or make treatment less successful. for example,Anxiety disorders, Eating disorders, Attention-deficit/hyperactivity disorder (ADHD), Alcohol or drug problems and Physical health problems, such as heart disease, thyroid problems, headaches or obesity.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>27316DC080A5D3EE</Id>
+      <Name>occur</Name>
+    </Rule>
+  </Rules>
+  <ResourceFiles>
+    <ResourceFile>
+      <Filename>Default.vrp</Filename>
+      <Filetype>ReplacementProfileFile</Filetype>
+    </ResourceFile>
+    <ResourceFile>
+      <Filename>Default.vsn</Filename>
+      <Filetype>SynonymFile</Filetype>
+    </ResourceFile>
+  </ResourceFiles>
+  <Info>
+    <Author />
+    <Copyright />
+    <License />
+    <AuthorWebsite />
+    <CreationDate>2021-08-17T12:49:05.8392806+03:00</CreationDate>
+    <LastUpdateDate>2021-08-17T15:30:58.3454723+03:00</LastUpdateDate>
+    <Rating>
+      <Rating>Unknown</Rating>
+      <Language>false</Language>
+      <Sexual>false</Sexual>
+      <Violence>false</Violence>
+      <Other>false</Other>
+      <Description />
+    </Rating>
+    <Category>Other</Category>
+    <Language>English</Language>
+    <Comment>Describe your KnowledgeBase here</Comment>
+  </Info>
+  <Version>1.0</Version>
+  <Build>12</Build>
+</KnowledgeBase>

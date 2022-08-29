@@ -1,0 +1,1156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KnowledgeBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Rules>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>A8A61C5B8527057B</Id>
+          <Text>_startup</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>12952CC45D490C79</Id>
+          <Text>Hye</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>49C01572B976EDFA</Id>
+          <Text>Hello</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>9E075A396A0429FF</Id>
+          <Text>Whatsup</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>3139E3F2A36C4440</Id>
+          <Text>Ey</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>98CB3303158F93C3</Id>
+          <Text>Ola</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>6C6770D654244470</Id>
+          <Text>Hi</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>6AB935FBED1E3B48</Id>
+          <Text>Hello and Welcome!</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>23FF21383DE1FF60</Id>
+          <Text>Hey!</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>AE8A682D32CB018F</Id>
+          <Text>Hello</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>26190E95A7E21074</Id>
+          <Text>Hello my friend</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>BE682ABDA3BA569E</Id>
+          <Text>Hye, please to meet you</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>E7BA95154CB614C</Id>
+          <Text>Hi</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>8DEEF0203F4F8F67</Id>
+              <Text>When will I start to feel the baby kicking?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>2C2D0FE5AF99C8CD</Id>
+              <Text>When does quickening occur?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>6742C914AE03AF7B</Id>
+              <Text>When will I most likely to feel the baby kicking?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>9E29B6D4213A0E3E</Id>
+              <Text>When will the baby start kicking?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>A0E0F461805A2288</Id>
+              <Text>When will I be able to feel the baby kicking?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>D6A2D0222AC6492C</Id>
+              <Text>When will I feel the baby quickening?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>D59BC0CB2B29C106</Id>
+              <Text>You might start to feel your baby moving, often called “quickening”, around 18 weeks into your pregnancy. If this is your first pregnancy, it might not happen until about 20 weeks. However, by the second pregnancy, you might notice the tell-tale signs as early as 16 weeks.</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>7512E5B0B1DBCC44</Id>
+          <Name>BabyKick</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>EE1763E5735EE3E4</Id>
+              <Text>Is it okay if I feel any cramps or having any bleeding?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>9197685CF702E2E</Id>
+              <Text>Is it normal for pregnant women to feel cramps?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>539E6B3A68B2C120</Id>
+              <Text>Is it considered normal for a pregnant women to have cramps?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>343DFF579B7A246A</Id>
+              <Text>Is cramps normal during preganncy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>B1B11C38183EAE7F</Id>
+              <Text>Is it normal for pregnant women to have any bleeding?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>E8A3D698F8E8ACE1</Id>
+              <Text>Id bleeding considered normal during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>70AF6FF11D386984</Id>
+              <Text>Is bleeding harmful?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>6F0DF5841CB6A1FE</Id>
+              <Text>Bleeding and pain in early pregnancy is common. Heavy bleeding or blood clots could indicate a miscarriage or an ectopic pregnancy. Such symptoms can include bleeding, spotting, cramps and stomach pain.</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+            <Output>
+              <Id>9A084DA71C82C3</Id>
+              <Text>Is cramps harmful?</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>F0748E539655BA39</Id>
+          <Name>Cramps</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>8159A142EDEE6B07</Id>
+              <Text>How much weight should I gain in pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>6C5BCD24944E2B86</Id>
+              <Text>How much weight gain is healthy for a pregnant women?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>24CA7BE024E471E0</Id>
+              <Text>Is weight gain normal during pregnancy?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>66BA91D24A1D27EA</Id>
+              <Text>A woman who was average weight before getting pregnant should gain 25 to 30 pounds after becoming pregnant. Underweight women should gain 28 to 40 pounds. And overweight women may need to gain 15 to 25 pounds during pregnancy.</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>7916F45B9958D516</Id>
+          <Name>Weight</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>FF7044D317C41CCC</Id>
+              <Text>Can I exercise during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>3C8BE041E87AC96</Id>
+              <Text>Am I allowed to do physical activities during my pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>AEF3E1D76780349A</Id>
+              <Text>Can I do physical activities during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>648D2BF4F7E34609</Id>
+              <Text>Am I allowed to exercise during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>AE17E06957E3A9C2</Id>
+              <Text>Can I work out during my pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>724C99A2A8B5C13</Id>
+              <Text>Is working out allowed during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>C1E10F1BBCBC3ABA</Id>
+              <Text>Is exercising allowed during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>957FF1BEBFCCE77</Id>
+              <Text>Is physical activity allowed during pregnancy?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>ABAD53F6F82A2E91</Id>
+              <Text>If you are healthy and your pregnancy is normal, it is safe for you to continue or start regular physical activity. Physical activity does not increase your risk of miscarriage, low birth weight or early delivery.</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>F323A7D38D62559A</Id>
+          <Name>Exercise_1</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>799C52DAAD00B14</Id>
+              <Text>What exercise is okay for me during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>4860AF1334FBD06E</Id>
+              <Text>What is the safest physical activity that can be done during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>E24D20C4EEBF313C</Id>
+              <Text>Are there any safe exercises that can be done during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>95ADDAA8388989A</Id>
+              <Text>Are there any safe physical activities that can be done during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>E3F4F174BA7A44D7</Id>
+              <Text>Are there any safe work outs that can be done during pregnancy?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>5B31545C539F26A7</Id>
+              <Text>Most exercise are safe to perform during pregnancy, as long as you exercise with caution and do not over do it. The safest and most productive activities are swimming, brisk walking, indoor stationary cycling, step or elliptical machines and low-impact aerobics (taught by a certified aerobics instructor)</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>3CBB3856DE330241</Id>
+          <Name>Exercise_2</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>E1387A2DD18FF27E</Id>
+              <Text>What can I do to my back and hip are sore during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>81D6257651553515</Id>
+              <Text>What can I do to ease my soreness?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>10D850995E5E6113</Id>
+              <Text>My back and hips are having some soreness and what can I do to ease that?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>695CBE8F1DD6</Id>
+              <Text>What can I do to ease my back and hips when they are sore?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>9356C842A57037BC</Id>
+              <Text>Yoga -  The stretches may help loosen tight hips and provide pain relief. Yoga is also one of the best exercise that can be done since it is gentle and low-impact.
+
+Other Exercises – Physical therapy  moves can help relief pain in the body as it destresses the muscles in the body and makes me body less tense. 
+
+Over the counter pain relievers – Beyond exercises and stretches, you may find relief with over-the-counter(OTC) pain relievers. Ask the doctor which might work best for you, as well as what dosage you should take. 
+
+Warm Baths or Compress -  You’ll want to use warm rather than cold when applying temperature for hip pain. Warmth helps to bring blood flow to the area. It also lessens joints stiffness and muscle spasms. To use a compress, you may use a heating pad or a homemade compress (damp towel soaked in warm water). Apply for 10 to 15 mins at a time. You should not apply the heating pas directly onto your stomach. 
+
+Massage – Your partner can massage certain areas around your hips to help release pain and pressure.</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>F84E8FA9850A8D89</Id>
+          <Name>Sore</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>C41661C0E140144A</Id>
+              <Text>How long can I work during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>334471BF9F58034A</Id>
+              <Text>Can continue to work during my pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>80B9DEE74DC822C7</Id>
+              <Text>Can I work long hours during pregnancy?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>EFED68BD88747278</Id>
+              <Text>Legally, pregnant women can continue to work the average of 40 hours a week or the hours that they were working previously. However, a pregnant employee must only continue to work these hours if it is safe to do so, physically and emotionally</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>8FE77CFCB56FF17A</Id>
+          <Name>Work</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>CE33DBE7316E6B38</Id>
+              <Text>Why should I be taking folic acid tablets?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>D6341A5D4FBC1D88</Id>
+              <Text>Do I need to take folic acid tablets?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>B9F79EAE211CC51</Id>
+              <Text>Is folic acid tablets important for perinatal women?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>13B373D980D8E1ED</Id>
+              <Text>Do I need to consume folic acid tablets?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>21B42C53BC89F553</Id>
+              <Text>Folic acid is vital for healthy bodily growth and development in everyone especially important for pregnant women. Your body uses folic acid to make DNA. If you are pregnant, folic acid is needed to help the development of your baby’s nervous system and neural tube early in pregnancy.</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>6D296DB2195E119A</Id>
+          <Name>FolicAcid</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>F0B2EC0E9E53BED5</Id>
+              <Text>What sould I expect during my labor and delivery?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>CD06FD0222443546</Id>
+              <Text>You may feel intense pain or pressure in your back or abdomen during each contraction. You may also feel the urge to push or bear down, but your doctor will ask you to wait until your  cervix is completely open. During transition, the cervix fully dilates to 10 centimeters.</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>3C2215334F7743CF</Id>
+          <Name>Labor</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>7F576DA0136B9885</Id>
+              <Text>Who will delivery my baby?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>2BD3124642671F82</Id>
+              <Text>Who is an obstetrician?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>3E5EE568493ECA58</Id>
+              <Text>Who is an OBGYN?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>C2AE304BDC7FB729</Id>
+              <Text>An obstetrician is a doctor who specializes in pregnancy, childbirth, and a women’s reproductive system. Although other doctors can deliver babies, many women see an obstetrician, also called an OB/GYN.</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>D282F407FD96C0BA</Id>
+          <Name>OBGYN</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>F1E6E3AB5DD577D</Id>
+              <Text>How is my due date being determined?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>4E7BBA55E0799403</Id>
+              <Text>When is the due date?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>9DA03E07772EAEAC</Id>
+              <Text>How can I know when the baby being delivered?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>8EFD3993E4944B72</Id>
+              <Text>When is the baby due?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>1E1BA4BAD040BFEC</Id>
+              <Text>Can I know when is the due date of the baby?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>D2CCC940F743E9AB</Id>
+              <Text>When will the baby being delivered?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>D70EE288CE63D6A2</Id>
+              <Text>Most pregnancies last around 40 weeks (or 38 weeks from conception), so typically the best way to estimate your due date is to count 40 weeks, or 280 days, from the first day of your last menstrual period (LMP). Another way to do is to subtract three months from the first day of your last period and add seven days.</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>3550B91458067633</Id>
+          <Name>DueDate</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>157C3A59EBD80A1B</Id>
+              <Text>What lifestyle/remedies do you recommend to ease morning sickness?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>AA407E1C984EB407</Id>
+              <Text>What can I do to ease morning sickness?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>4E296E5E2806F1C4</Id>
+              <Text>Is there anything iI can do to ease morning sickness?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>3D80964926176E23</Id>
+              <Text>What options i can do to ease morning sickness?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>793C107031225A09</Id>
+              <Text>How do I ease morning sickness?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>2D33C1BBAE938B43</Id>
+              <Text>Is there any advise on how to ease morning sickness?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>B5E24A7FECDDAB76</Id>
+              <Text>Choose food carefully – Select food that are high in protein, low in fat and easy to digest and avoid greasy, spicy and fatty foods. Bland food, such as bananas, rice, applesauce and toast may be easy to digest. Salty foods that contain ginger – such as ginger lollipops.
+Snack often – Before getting out of bed in the morning, eat a few soda crackers or a piece of dry toast. Nibble throughout the day, rather than eating three large meals so that your stomach does not get full. Plus, an empty stomach may cause nausea worse. 
+Drink plenty of fluids – Sip water or ginger ale. Aim for six to eight cups of noncaffeinated fluids daily. 
+Pay attention to nausea triggers – Avoid foods or smell that seem to make your nausea worse. 
+Breath fresh air – Weather permitting, open the windows in your home or workplace. Take a daily walk outdoors. 
+Take care with prenatal vitamins – If you feel queasy after taking prenatal vitamins, take the vitamins with a snack or just before bed. If these steps does not help, ask your health care provider about other ways you can get the iron and vitamins you need during pregnancy. 
+Rinse your mouth after vomiting – The acid from your stomach can damage the enamel on your teeth. If you can, rinse your mouth with a cup of water mixed with a teaspoon pf baking soda. This will help neutralize the acid and protect your teeth.</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>9DF025182638C397</Id>
+          <Name>Lifestyle/Remedies</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>42F346E339D7D59F</Id>
+              <Text>Are artificial sweeteners safe during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>CD2AC51DF8DBFA4E</Id>
+              <Text>Can I add on artificial sweeteners in my food?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>59FEBB2ED41C24B</Id>
+              <Text>Is artificial sweeteners FDA approved for pregnant women?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>350684799F2F09</Id>
+              <Text>Is artificial sweeteners harmful during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>B6361B2F55A77AD0</Id>
+              <Text>Can I consume artificial sweeteners?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>C41B96D9DDE89165</Id>
+              <Text>Can I consume artificial sweeteners during my pregnancy?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>6119BFFE61E5795C</Id>
+              <Text>Six sweeteners such as aspartame, sucralose, saccharin, acesulfame potassium, neotame and advantame have all been approves as safe by the FDA. In general, all of these, except for saccharin, are considered safe to use in moderation during pregnancy.</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>AFF41AFF19F40F89</Id>
+          <Name>AS</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>B25439CB8A0BE9D6</Id>
+              <Text>What should I avoid in skincare products during pregnancy?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>F931ECC3CDC1E577</Id>
+              <Text>For skincare, pregnant women should avoid high-dose salicylic acid, retinoids, hydroquinone, phthalates, formaldehyde and any chemical sunscreens</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>847517B6518ADBD4</Id>
+          <Name>Skincare</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>60CC25F24E801714</Id>
+              <Text>What should I be eating?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>7D73B41284E04A36</Id>
+              <Text>What should I consume more often?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>40B5E635C75A145B</Id>
+              <Text>What should I consume?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>DF7571B79203B784</Id>
+              <Text>What should I eat during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>4AC470A277A4841</Id>
+              <Text>What is the best food to eat during pregnancy?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>E41E8A8AF4D27F</Id>
+              <Text>A pregnant women be eating more fresh fruits and vegetables, starchy carbohydrate-rich foods, protein, healthy fats, fiber, calcium and zinc.</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>C97203DC20F7099D</Id>
+          <Name>ShouldEat</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>14CDA281D21B7D06</Id>
+              <Text>What should I avoid eating?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>43F68C562372C69F</Id>
+              <Text>What should I stay away?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>8577EED03C49D51A</Id>
+              <Text>What should I prevent myself from eating?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>157FAA9A695B4925</Id>
+              <Text>What food can effect the my health and the fetus?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>B22D5B317A0AF2</Id>
+              <Text>Can you help me list all the food that is harmful to consume during my pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>C66CBC525E12C3CF</Id>
+              <Text>What food that is harmful for a pregnant women to consume?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>E264C2F5E12C7EF4</Id>
+              <Text>Foods to avoid during pregnancy are foods that contain mercury in some type of fishes, uncooked or partially cooked meat, raw eggs, uncooked or undercooked ready-prepared meals, pate, soft mold-ripened cheese and empty calorie foods.</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>575CD632D9F7C12E</Id>
+          <Name>AvoidEat</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>D459A0A6123A87FD</Id>
+              <Text>What pregnancy symptoms are normal and what is an emergency?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>893161894F31EC41</Id>
+              <Text>What are the normal symptoms?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>B356D8A168AE17C4</Id>
+              <Text>What are the harmful symptoms?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>F1EE07AE70113F04</Id>
+              <Text>What are the symptoms that i have to expect?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>E7CC002198E751B5</Id>
+              <Text>What symptoms that shows emergency?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>CB0BE999CB2838FE</Id>
+              <Text>Can you please list down all the normal symptoms that I peregnant women might face?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>78EA181ACDA78538</Id>
+              <Text>Can you list down all the harmful symptoms that is considered an emergency?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>9FF09462410310E0</Id>
+              <Text>There are a lot of signs/symptoms of pregnancy. Here is a list of normal signs of pregnancy:
+•	Missed periods
+•	Nausea and vomiting
+•	Breast tenderness and enlargement
+•	Passing urine more frequently
+•	Craving for some food
+•	Back ache
+•	Breathelessness
+•	Constipation
+•	Heamorrhoids
+•	Headaches
+•	Heartburn and indigestion
+•	Itchy skin
+•	Leg cramps
+•	Mood changes
+•	Tingling and numbness in your hands
+•	Vaginal dischatge
+•	Vaginitis 
+•	Varicose veins and leg oedema
+There are a few symptoms that are emergency during pregnancy. Here is a list of symptoms :
+•	Vaginal bleeding
+•	Less movement of your baby than usual
+•	Severe stomach pain
+•	Pain that does not go away
+•	Leaking amniotic fluid
+•	A high temperature
+•	Vomiting that will not stop
+•	A headache that will not go away
+•	Vision loss or blurred vision
+•	Widespread itching of the skin
+•	Sudden swelling of face, hands and feet.</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>E91AAE33A0326E59</Id>
+          <Name>Symptoms</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>A9A00A915CE3D597</Id>
+              <Text>How much caffeine can I have during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>C58C9B2ED80693B0</Id>
+              <Text>Can I consume caffeine?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>B7D83878BFCB0845</Id>
+              <Text>Is caffiene allowed during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>929B82F53FA5D52C</Id>
+              <Text>How much caffeine is safe for a pregnant women to consume?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>594958858B5BEC3D</Id>
+              <Text>If you are pregnant, limit caffeine to 100 milligrams each day. This is about the amount in 8 ounce cup of coffee. If you are breastfeeding, limit the caffeine to not more than 2 cups of coffee a day.</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>E337DAB3D46C3AF5</Id>
+          <Name>Caffeine</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>E4DC4FBA8F02D71C</Id>
+              <Text>Can I drink alcohol when I'm pregnant?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>82BB8689BF3BEC82</Id>
+              <Text>Can I drink?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>B196F7BD90ECF7EC</Id>
+              <Text>Am I allowed to drink during pregnany?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>C75AF76A24C841</Id>
+              <Text>Is alcohol bad during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>8FFEA94698D6B9EA</Id>
+              <Text>Is drinking alcohol allowed?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>513D6ECBB7034C27</Id>
+              <Text>Will there be any effects if I drink alcohol?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>4CAB6D1FD66461F4</Id>
+              <Text>There is no safe time to drink alcohol during pregnancy. Alcohol can cause problems for the developing baby throughout pregnancy, including before a woman knows she is pregnant. Drinking alcohol in the first three months of pregnancy can cause the baby to have abnormal facial features.</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>EB837BAEAE22618E</Id>
+          <Name>Alcohol</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>850A5F9E231F4898</Id>
+              <Text>Can I smoke during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>B5F8ADA498F10323</Id>
+              <Text>Is amoking allowed during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>E8B7E15CC324F4CD</Id>
+              <Text>Is smoking bad especially during my pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>2E1A95BB996321B0</Id>
+              <Text>Is smoking harmful?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>90127810FB6DCA33</Id>
+              <Text>Can smoking effect the baby?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>EFA3E97986C0883</Id>
+              <Text>Does smoking cause harm to the baby?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>A46C28016F966149</Id>
+              <Text>Smoking during pregnancy increases the risk of health problems for developing babies, including preterm birth, low birth weight and birth defects of the mouth and lip. Smoking during and after pregnancy also increases the risk of sudden infant death symptoms(SIDS).</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>DBAAC021EB30F9F1</Id>
+          <Name>Smoking</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>823F0472EF6DA4E4</Id>
+              <Text>Hi I am [name]</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>27AF1C03CF4E92E4</Id>
+              <Text>Hello [name]. I am Aritificial Intelligence (AI) chatbot that will helo you along the way during your pregnancy. You can ask me any questions, doubts and concerns that you have and I will try my best to assist you</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>678D853864A5E3FD</Id>
+          <Name>NAME</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>C9B098FEC21DE78B</Id>
+              <Text>Is it normal for me to have cravings?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>5E98031AEC41AE4C</Id>
+              <Text>Is cravings normal?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>D1B5A7F19F08420F</Id>
+              <Text>Is it okay for me to have cravings during pregnancy?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>C44FFFAEC4CDD2C6</Id>
+              <Text>Is it ok for me to have cravings during pregnancy?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>81BD61273D7BF45E</Id>
+              <Text>Definately! During pregnancy, perinatal women tend develop sudden dislike or cravings for certain tasting or smell. This may due to the effects of the pregnancy hormones.</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>A60722B0CC0F1B25</Id>
+          <Name>Cravings</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>53A031CFA44726D6</Id>
+              <Text>How is life so far for you?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>C8F272A48F4E310E</Id>
+              <Text>HAHAHA, it has been stressful but we must keep on going.</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>D1833EE69305123</Id>
+          <Name>Humours</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>F1573732616C0D47</Id>
+              <Text>Good Morning</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>3F655AA4D9B0223F</Id>
+              <Text>Good Morning to you too!</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>2B7C674DB75E46B4</Id>
+          <Name>Morning</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>FC3C81F14050FB05</Id>
+              <Text>How long do I push the baby all the way out?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>B2EE066D7D23133C</Id>
+              <Text>How long does it take to deliver the baby?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>D8974B5186BADAAC</Id>
+              <Text>What is the time taken to deliver a baby?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>E1ADA93D63330341</Id>
+              <Text>What is the time taken needed to push the baby all the way out?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>C888BAB833E90DDC</Id>
+              <Text>How long does the process of delivering a baby last?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>9538137D2E7B061</Id>
+              <Text>What is the duration to push the baby all the way out?</Text>
+              <Condition />
+            </Input>
+            <Input>
+              <Id>EC4609EF6CFE8DBC</Id>
+              <Text>What is the duration to deliver a baby?</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>F091BAA20AB5AF2</Id>
+              <Text>In all, delivery generally takes 30 minutes to an hour, but it could take as long as three hours, especially in first babies(second and subsequent babies usually pop out a lot faster), or as short as a few minutes.</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>A2476B63A55525F</Id>
+          <Name>Duration</Name>
+        </Rule>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>D6DB3FDDD10AA2CE</Id>
+              <Text>Good Afternoon</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>4446F95F62E7B317</Id>
+              <Text>Good Afternoon to you too!</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children />
+          <VirtualParents />
+          <Id>7BBD5CB32A04FB9B</Id>
+          <Name>Good Afternoon</Name>
+        </Rule>
+      </Children>
+      <VirtualParents />
+      <Id>8CD7B8FA80E6E6ED</Id>
+      <Name>_startup</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>EB625DB7C1275268</Id>
+          <Text>**</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>385896079378F5CE</Id>
+          <Text>I dont have an opinion on that matter.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>5B360DA98624BA17</Id>
+      <Name>UNKNOWN</Name>
+    </Rule>
+  </Rules>
+  <ResourceFiles />
+  <Info>
+    <Author />
+    <Copyright />
+    <License />
+    <AuthorWebsite />
+    <CreationDate>2021-07-24T04:01:25.1107676+08:00</CreationDate>
+    <LastUpdateDate>2021-08-20T17:48:07.5617501+08:00</LastUpdateDate>
+    <Rating>
+      <Rating>Unknown</Rating>
+      <Language>false</Language>
+      <Sexual>false</Sexual>
+      <Violence>false</Violence>
+      <Other>false</Other>
+      <Description />
+    </Rating>
+    <Category>Other</Category>
+    <Language>English</Language>
+    <Comment>Describe your KnowledgeBase here</Comment>
+  </Info>
+  <Version>1.0</Version>
+  <Build>14</Build>
+</KnowledgeBase>

@@ -1,0 +1,3238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KnowledgeBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Rules>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>7B1C47ABB0BCBDF1</Id>
+          <Text>1</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A32140B27D1A8D91</Id>
+          <Text>coronary</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>66650B6DFF471FEB</Id>
+          <Text>coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>733A28645B38A7E</Id>
+          <Text>what is coronary artery disease</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>DD71DCE273837835</Id>
+          <Text>Coronary artery disease is the buildup of plague in the arteries that supply oxygen-rich blood to your heart. Plague causes a narrowing or blockage that could result in a heart attack. Symptoms include chest pain or discomfort and shortness of breath. Treatments include lifestyle changes and medications that target your risk factors and/or possible surgery.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>FA130C96446E15A8</Id>
+      <Name>coronary</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>848C5C68D076DB91</Id>
+          <Text>_startup</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>485186CBC06C48E8</Id>
+          <Text>0</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D832D2574C74190B</Id>
+          <Text>hi</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F9D9D9218D6CCCD9</Id>
+          <Text>hello</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>462196A5DFDF227F</Id>
+          <Text>whatsup</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>FBE6F27C3E81373</Id>
+          <Text>hey</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>43F22B5CC2D760BE</Id>
+          <Text>hey bro</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>1F887064D1010EC5</Id>
+          <Text>haha</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>94E15658A4BCFE5E</Id>
+          <Text>ey</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>3FF081404D014480</Id>
+          <Text>yello</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>1DB4E47F6F9C7DBA</Id>
+          <Text>heyyo</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>8ED85516A3969DE9</Id>
+          <Text>heyo</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>83A46198437BC702</Id>
+          <Text>yello</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>1488226734781890</Id>
+          <Text>yelo</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>21329F482D9EAD6B</Id>
+          <Text>Hello there. :-)</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>E2CDBF02B47BB590</Id>
+          <Text>Hey. :-)</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>32CCAFF3BEF77C8</Id>
+          <Text>How are you doing. :-)</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>C1CD55D1300F63B5</Id>
+          <Text>Hi, nice to meet you. :-)</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>CD80A736D67AEF22</Id>
+          <Text>Whatsup. :-)</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>62A4E98B5BEA8859</Id>
+      <Name>_startup</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>365F3DEF1530F4D1</Id>
+          <Text>2</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B51E280F514FB1F2</Id>
+          <Text>who gets coronary</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>3500E7E04FBE21B</Id>
+          <Text>who gets coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>8B08136CB8F2BB19</Id>
+          <Text>who can get coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>484FA8B7E0704D4E</Id>
+          <Text>who can get coronary artery disease.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>6F6B5771DDCAF21C</Id>
+          <Text>who can get coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>AA9004627AF3542C</Id>
+          <Text>Who can get coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>4C99E23AC566831E</Id>
+          <Text>Who can get coronary artery disease.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F694962931735475</Id>
+          <Text>Who can get coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7E4413E49387BC73</Id>
+          <Text>how can someone get coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>EB73F56A38DC9DA6</Id>
+          <Text>how can someone get coronary artery disease.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>1C4450618CDCD70F</Id>
+          <Text>how can someone get coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>4FCFCC593F5E19F6</Id>
+          <Text>How can someone get coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>FD33C6915E33F16A</Id>
+          <Text>How can someone get coronary artery disease.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A40999109A921C9</Id>
+          <Text>How can someone get coronary artery disease?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>EE1E0F88DBF420BB</Id>
+          <Text>People who have a high cholesterol level, high blood pressure, family history of heart disease, have diabetes, are a smoker, are overweight and are physically inactive.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>5C8F4F66CFA88959</Id>
+      <Name>whogetscoronary</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>312A98738B01259D</Id>
+          <Text>3</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>98B484C876D583E1</Id>
+          <Text>symptoms of coronary</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>5C681AF830DA3C79</Id>
+          <Text>what are the symptoms of coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>521F1792154172C8</Id>
+          <Text>symptoms of coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>DAE0F414ABA77A4F</Id>
+          <Text>what are the symptoms</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>9E9AE6A48258DD4A</Id>
+          <Text>symptoms</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>581BF2B36307C02F</Id>
+          <Text>symptoms?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7664471DD98B8A57</Id>
+          <Text>Symptoms</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>2A083EBF6AD7F82B</Id>
+          <Text>Symptoms?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>6B006327532FB1CF</Id>
+          <Text>The most common symptoms are chest pains or shortness of breath, especially after light physical activity like walking up the stairs, but even at rest. Sometimes you won’t know you have coronary artery disease until you have a heart attack. Symptoms of a heart attack includes chest discomfort, pressure, aching, burning, numbness, fullness, squeezing or dull ache, feeling tired, dizziness, lightheaded, nausea, weakness. Symptoms for women can be slightly different that is discomfort or pain in the shoulder, feeling indigestion or heartburn, unexplained anxiety and cold sweat.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>8D37A5114AFA0089</Id>
+      <Name>symptoms</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>D67C905B686ED62D</Id>
+          <Text>4</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>3C541808FA4D7EF3</Id>
+          <Text>diagnosed</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>56F9F667385BB281</Id>
+          <Text>how is coronary artery diagnosed</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>20A364B4EB186F4</Id>
+          <Text>what are the diagnostics</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>55CF79294FA5697</Id>
+          <Text>what are the diagnostics for coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7D19CB5417CF32C1</Id>
+          <Text>Diagnosed</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>6E64127DD151EB0C</Id>
+          <Text>how is coronary artery diagnosed?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>300A3BE65A353D0D</Id>
+          <Text>what are the diagnostics?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A2778FE918FA7E6</Id>
+          <Text>What are the diagnostics</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>666C43FADDD92131</Id>
+          <Text>What are the diagnostics?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>EA6198A0879960E2</Id>
+          <Text>what are the diagnostics for coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>6705A00FBA4B676C</Id>
+          <Text>What are the diagnostics for coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>AFFFCFB5485A9C11</Id>
+          <Text>What are the diagnostics for coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F16B5583656695C9</Id>
+          <Text>diagnostics</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>ECC5F2C347367490</Id>
+          <Text>diagnostics?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7F2CC35F83B485FF</Id>
+          <Text>Diagnostics?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>3CB2278679356874</Id>
+          <Text>Diagnostics</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>FA038DAC6D51AC3D</Id>
+          <Text>Diagnostic tests include an (EKG) test, this test records the electrical activity of the heart, can detect heart attack, schemia and heart rhythm issues. Next is exercise stress test, this treadmill test to determine how well your heart functions when its working the hardest, it can detect angina and coronary blockage. Other than that, there is echocardiogram, this test uses sound waves to see how well structures of your heart are working and overall functions of your heart. Lastly there is cardiac catherization, this test involves inserting small tubes into the blood vessels of the heart to evaluate heart function including the presence of coronary artery disease.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>C101A321B25801F1</Id>
+      <Name>diagnosed</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>AA744371E0CF359E</Id>
+          <Text>5</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>1A026B43C152D846</Id>
+          <Text>what to do if i have symptoms of coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D57871DC5195780</Id>
+          <Text>what should i do if i have symptoms of coronary artery disease</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>BC06D69D9D2F2414</Id>
+          <Text>You need to seek immediate help, if a blood clot in a coronary artery has broken loose and moved into your brain, it can cause a stroke.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>E248CA1B984249AC</Id>
+      <Name>whattodo</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>3FF67E3DA84D8040</Id>
+          <Text>6</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>6FAF6A3D84C1F194</Id>
+          <Text>how is coronary artery disease treated</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>DE43E6A275893DFC</Id>
+          <Text>how do you treat coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>EDF35E6977A1A868</Id>
+          <Text>what is the treatment</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E9AC9D6C8C68ECD8</Id>
+          <Text>is there a treatment</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>457958773DE27591</Id>
+          <Text>is there a treatment for coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>4AA4D69B20E0CA31</Id>
+          <Text>what are the treatment</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>5E37D0E737129EE4</Id>
+          <Text>what are the treatment?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7A51E1ABC6A4BCCD</Id>
+          <Text>What are the treatment</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F5A7787E7FC42A0A</Id>
+          <Text>What are the treatment?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>DDE6186C9D72B7F0</Id>
+          <Text>what are the treatment for coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>496E3AC3AAFA07E7</Id>
+          <Text>what are the treatment for coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>AC97F3B0BB3378E1</Id>
+          <Text>What are the treatment for coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7C0AB0B9FBAA464E</Id>
+          <Text>What are the treatment for coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>1BFE554E3198D85</Id>
+          <Text>treatment</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D8C58F382B8F5682</Id>
+          <Text>treatment?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>26E162F7FFD474A8</Id>
+          <Text>Treatment</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>22B8694F6C5A1428</Id>
+          <Text>Treatment?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>8B73D8DF44DA32E</Id>
+          <Text>what are the treatments</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>2D5537B37154FFE8</Id>
+          <Text>what are the treatments.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>2516055983C76B4C</Id>
+          <Text>what are the treatments?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A6F576661E1800E3</Id>
+          <Text>What are the treatments</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>FC91A742586271BC</Id>
+          <Text>What are the treatments.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>BA9A6E212B397C72</Id>
+          <Text>What are the treatments?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>CE272FCCBD1560CD</Id>
+          <Text>treatments</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>2D34B9F05FC43BFF</Id>
+          <Text>treatments.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>8617E8BFCB8E641</Id>
+          <Text>treatments?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>BC8E90CD8D485C06</Id>
+          <Text>Treatments</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B8DBDA293E6040FC</Id>
+          <Text>Treatments.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>5DCA5C14D03BC334</Id>
+          <Text>Treatments?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>EA73779432274BC2</Id>
+          <Text>how do you treat the disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E44CD1B69421F500</Id>
+          <Text>how do you treat the disease.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>DCDDCD0EEBC99C09</Id>
+          <Text>how do you treat the disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>2C9950E5DFF2D7C0</Id>
+          <Text>How do you treat the disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D9051E5DFA4F9B26</Id>
+          <Text>How do you treat the disease.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>10711523260FC3B9</Id>
+          <Text>How do you treat the disease?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>2090916C2A347146</Id>
+          <Text>The first step in treating coronary artery disease is to reduce your risk factors. This involves making changes in your lifestyles, this includes no smoking, manage health problems like cholesterol levels, eat a heart-healthy diet, limit alcohol use and increase your activity level. Besides that, medication is provided to manage your risk factors for heart disease and procedures and surgery to get rid of plague buildup in the arteries.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>344D9692B6AE2BFD</Id>
+      <Name>treated</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>E7A1D2856EB08F59</Id>
+          <Text>7</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>8474373460C4ED1E</Id>
+          <Text>what are the complications of coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D9F432A540D7ED1F</Id>
+          <Text>complications of coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>5FF96FC05D101B12</Id>
+          <Text>complications</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>5C993EA2BA71CCD</Id>
+          <Text>is there any complications</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>AAEBE0C8BABDA597</Id>
+          <Text>Coronary artery disease can lead to the following other heart conditions, angina, heart attack, heat rhythm problems, heart failure, cardiogenic shock and sudden cardiac arrest.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>9DED792DE2E13DE1</Id>
+      <Name>complications</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>88352F341FE7BF5</Id>
+          <Text>8</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>42304EAA84BBF46</Id>
+          <Text>cure for coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>4B0A3B44FC0A5CCB</Id>
+          <Text>doe coronary atery disease have a cure</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>4B1AEC5690C4E01B</Id>
+          <Text>is there a cure for coronary artery</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>CF5E6693A075A54A</Id>
+          <Text>is there a cure for coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>33A3F99F8155967C</Id>
+          <Text>cure</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>FA436651DE64A03F</Id>
+          <Text>Cure</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>26256F91F22F1132</Id>
+          <Text>cure?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>77826B121B9EA47F</Id>
+          <Text>Cure?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>22959463930167B0</Id>
+          <Text>No, coronary artery disease does not have a cure but it can be managed effectively with a combination of lifestyles changes, medicine and in some cases surgery. With the right treatment, the symptoms of coronary artery disease can be reduce and the functioning of the heart improved. Q:)</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>B50F43F1E2B99F1D</Id>
+      <Name>cure</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>1780FF186F6B01F9</Id>
+          <Text>9</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>CCC6FC5B503227E8</Id>
+          <Text>What is your name</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>8E8B68F683BE449C</Id>
+          <Text>My name is Lola. :-)</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>665DB4C47B324B35</Id>
+          <Text>What would you like my name to be? I am kidding haha, my name is Lola. :-P</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>1B18BF1456F3D74D</Id>
+      <Name>name</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>E269997CAEB3BA25</Id>
+          <Text>11</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>EE5BC4E9BD83CA9</Id>
+          <Text>Hello</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>ED8A723A35F103DA</Id>
+          <Text>hello</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>5982E9B093AF78D3</Id>
+          <Text>Hello, my name is Lola and I am your medical assistant for Coronary Artery Disease. So if you have any questions about Coronary Artery Disease, please do ask me.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>4AFDB23B5FB78906</Id>
+      <Name>intro</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>5A17B3139AFEB766</Id>
+          <Text>12</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D8FCD23F5CAC9FF3</Id>
+          <Text>What do you do</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>1AA1B54F65EAAF8</Id>
+          <Text>what do you do</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>804DDE476B3F9E74</Id>
+          <Text>What do you do.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>4C59D9CB1293C6D1</Id>
+          <Text>What do you do?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>24425D863E73D754</Id>
+          <Text>what do you do?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B28B6FC2767B4633</Id>
+          <Text>Who are you</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>195E18F3773A5739</Id>
+          <Text>Who are you?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F6B0F1F6B109CE2</Id>
+          <Text>who are you</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>FDD3E9CD587154B</Id>
+          <Text>who are you?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>AC3B8267ABE3EB50</Id>
+          <Text>hello, who are you</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F13B9E18540588A8</Id>
+          <Text>hello, who are you?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>9D640522A0B6131D</Id>
+          <Text>Hello, who are you</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B81AC539F64AC55</Id>
+          <Text>Hello, who are you?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>DA04E904592A085F</Id>
+          <Text>hello, what do you do</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>CECC841C8EF520C2</Id>
+          <Text>hello, what do you do.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>93CED27EF6C8F762</Id>
+          <Text>hello, what do you do?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>3D6FFDB43148BD1F</Id>
+          <Text>Hello, what do you do</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>109319FA7D33754</Id>
+          <Text>Hello, what do you do.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>21417D4C34B31A67</Id>
+          <Text>Hello, what do you do?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>3F038A88DA572019</Id>
+          <Text>Hello my name is Lola. I am a medical assistant for Coronary Artery Disease. I can answer your questions about Coronary Artery Disease.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>4CA53C0A45A609D</Id>
+      <Name>what i do</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>49FEBD05D6087350</Id>
+          <Text>13</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F73EA05D4A696DD</Id>
+          <Text>how do you have all of the information</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>910E44C59367E38B</Id>
+          <Text>How do you have all of the information</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>AF1CBEDF93A4D720</Id>
+          <Text>I am a knowledge base system that stores all kinds of information that the editor would like to input.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>B6922724CEFAC14D</Id>
+      <Name>how</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>ABBF870BECD3488E</Id>
+          <Text>14</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>16A8E7402FE3B28E</Id>
+          <Text>how old are you</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>CD68ADDD0F2BDB</Id>
+          <Text>How old are you?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>53011B2C512A412B</Id>
+          <Text>How old are you</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A3670914FBDAFF5C</Id>
+          <Text>how old are you?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C8E966FFFB22693</Id>
+          <Text>how old are you.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A919D265AF04D36D</Id>
+          <Text>How old are you.</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>E315C411A6352A8C</Id>
+          <Text>I am an AI knowledge base system. I do not age, so I do not have an answer for you. :-(</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>21B4844B99CC72BC</Id>
+      <Name>age</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>2DD5AE96BF00BC39</Id>
+          <Text>15</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>81B9F76B7A47FBBE</Id>
+          <Text>how is the weather today</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>6DC01545FD848B59</Id>
+          <Text>How is the weather today</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>8002B833D443BE33</Id>
+          <Text>how is the weather today?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B39627F3B201083C</Id>
+          <Text>how is the weather today.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>64720FE4C4442F4</Id>
+          <Text>How is the weather today.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>9C73E9F19A42FB05</Id>
+          <Text>How is the weather today?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>493B3E969F38909C</Id>
+          <Text>what is the weather like today</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>38240D524706BECB</Id>
+          <Text>what is the weather like today.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C4CEA321C8C74455</Id>
+          <Text>what is the weather like today?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7B9D36444C2A5D42</Id>
+          <Text>What is the weather like today</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>60ACA6C8BEEC3DD</Id>
+          <Text>What is the weather like today.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>63A5CBB17CC1D72B</Id>
+          <Text>What is the weather like today?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>7A160C2BC5B546D9</Id>
+          <Text>I do not know because I cannot go outside.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>A9EC852D1833E2F8</Id>
+      <Name>weather</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>AA70257A2C752820</Id>
+          <Text>16</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F7874742CCC3CF</Id>
+          <Text>What is Ai</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C57726D4889F6EA6</Id>
+          <Text>What is AI.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>42F5233F2EC5352</Id>
+          <Text>What is AI?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>DE4DC43C575994CF</Id>
+          <Text>What is AI</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>97BCCF0EB7FE7311</Id>
+          <Text>what is AI</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>BD3A08F4EE8C3DD9</Id>
+          <Text>what is AI.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>2884F37DF53BC45C</Id>
+          <Text>what is AI?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>9844FC717410B1F1</Id>
+          <Text>AI</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>4EDBD5A1CA056BF5</Id>
+          <Text>The simulation of human intelligence in machines that are programmed to think like humans and mimic their actions.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>FB4B6481CF7AB56E</Id>
+      <Name>AI</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>5F2697A6C9030F</Id>
+          <Text>17</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>2295E1379EDBC469</Id>
+          <Text>why does the chicken cross the road</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7D6DE1C93DF3C5E9</Id>
+          <Text>why does the chicken cross the road?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>510A01261E57F044</Id>
+          <Text>why does the chicken cross the road.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D93DCEFA300912BD</Id>
+          <Text>Why does the chicken cross the road?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C73D06D671D4E608</Id>
+          <Text>Why does the chicken cross the road.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>11E15802D70CCF50</Id>
+          <Text>Why does the chicken cross the road</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>3AAD655E7159B6EC</Id>
+          <Text>To get to the other side. Hahahahahah. :-o</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>31D7C7E120E74AF4</Id>
+      <Name>jokes</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>69C5E3E93180B049</Id>
+          <Text>18</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>21BE930AE5BF9DF5</Id>
+          <Text>risk</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B1DE7833A74FC214</Id>
+          <Text>what are the risk</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>3D56A09A9D832B7E</Id>
+          <Text>what is the risk</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C6931FA752DF67D9</Id>
+          <Text>What are the risk</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>4D9A7DD7351B4261</Id>
+          <Text>What are the risk.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>30852803B41A465C</Id>
+          <Text>What are the risk?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>899705ACA473E879</Id>
+          <Text>what are the risk.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F56D30D37A6F286</Id>
+          <Text>what are the risk?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C956D8AE9C3EEB6D</Id>
+          <Text>what is the risk.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7889E01927BC0B0C</Id>
+          <Text>what is the risk?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E3148EC68DB7A79</Id>
+          <Text>what are the risk of coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D6F56CC7A6C8639A</Id>
+          <Text>what are the risk of coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E2E723A7AA763712</Id>
+          <Text>What are the risk of coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>20F209CEE8FC3DD2</Id>
+          <Text>What are the risk of coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B45F3B2D39B8D0E2</Id>
+          <Text>risk of coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B4D700B2687CD0B9</Id>
+          <Text>risk of coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>DC28AABF9B41B9D4</Id>
+          <Text>Risk of coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>730478C79B900D29</Id>
+          <Text>Risk of coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>44FB1CB25D2C502</Id>
+          <Text>Risk</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E8BE393F71E3901C</Id>
+          <Text>what are the risks</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>DD8A6368FBACA735</Id>
+          <Text>what are the risks.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D4C3B3DCC6D6A5D1</Id>
+          <Text>what are the risks?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>125C826B4538473D</Id>
+          <Text>What are the risks</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>90A7C32E88ADC5D9</Id>
+          <Text>What are the risks.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>1CBEBD8DDBD62850</Id>
+          <Text>What are the risks?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>989F2EE7658B8CFF</Id>
+          <Text>Risks</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C52FC7F8D303DC09</Id>
+          <Text>Risks.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E16BBDD11E9FA03</Id>
+          <Text>Risks?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>975352EAEBCCF3C</Id>
+          <Text>risks</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>DD67D9A069EC4AE2</Id>
+          <Text>risks.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F04D8BA8B8E606B3</Id>
+          <Text>risks?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>9A58687DE6F24303</Id>
+          <Text>The risk for coronary artery disease are high LDL cholesterol, low HDL cholesterol, high blood pressure, family history, diabetes, and smoking.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>996145E9E2C1C041</Id>
+      <Name>risk</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>6191CAAB29309CCD</Id>
+          <Text>19</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>27C4FA9F431BE5EE</Id>
+          <Text>do you have any money</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>87EB4530483263FC</Id>
+          <Text>do you have any money?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>70DA58E093FB86FB</Id>
+          <Text>do you have any money.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C445E921EEA4D944</Id>
+          <Text>Do you have any money</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B095E72B8F6861AD</Id>
+          <Text>Do you have any money?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>94744DF8741B13AE</Id>
+          <Text>Do you have any money.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7FC567F62BC50D8E</Id>
+          <Text>money</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F7F758C7297BAA34</Id>
+          <Text>Money</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A690300EBB3C27D0</Id>
+          <Text>Money.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F36E7E0E23EFA979</Id>
+          <Text>Money?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>8E1497EE3AA1C234</Id>
+          <Text>do you have money.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>5D3AECADFCB299E0</Id>
+          <Text>do you have money</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>2A349C9E5A5B2457</Id>
+          <Text>do you have money?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>1599EE0011810804</Id>
+          <Text>Do you have money.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A5000DBADC92675C</Id>
+          <Text>Do you have money</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C873918AD4E35BD3</Id>
+          <Text>Do you have money?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>F980D24E8DEAC90F</Id>
+          <Text>No i do not have any money, sorry about that.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>89EE282F6359DD02</Id>
+      <Name>money</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>518B4A1C5F97378</Id>
+          <Text>20</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7FBA3BF155109A9D</Id>
+          <Text>do you want to go eat</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>9A1164B147BA8385</Id>
+          <Text>do you want to go eat.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>89280548CA0B72B8</Id>
+          <Text>do you want to go eat?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>75CAF746B96FE715</Id>
+          <Text>Do you want to go eat</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>9A4C95D71A8E310A</Id>
+          <Text>Do you want to go eat.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>EF6F119AE478A50C</Id>
+          <Text>Do you want to go eat?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>8C5D49F27D876DAB</Id>
+          <Text>do you want to eat</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>CC206123370B7ED</Id>
+          <Text>do you want to eat.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D15BA9ED363B4BC9</Id>
+          <Text>do you want to eat?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>270F48A08E6A3E01</Id>
+          <Text>Do you want to eat</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A47D8FBD7FDCFD54</Id>
+          <Text>Do you want to eat.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>AA193E2775C903F3</Id>
+          <Text>Do you want to eat?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>9F84B608D903C362</Id>
+          <Text>eat</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>57FEF566D6357B1</Id>
+          <Text>Eat</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>16D2E93A4981708F</Id>
+          <Text>eat.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>3D8185B542209746</Id>
+          <Text>eat?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>589304A5969DA9F0</Id>
+          <Text>Eat.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A52A75CE7BFC9A5</Id>
+          <Text>Eat?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>915EF91972823C7D</Id>
+          <Text>No thank you. I appreciate the offer.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>19E348F9DAFCD57E</Id>
+      <Name>eat</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>5944C302C6973A05</Id>
+          <Text>21</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C76A7D06B1502858</Id>
+          <Text>what should i eat today</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>842E43436F12B45F</Id>
+          <Text>what should i eat today.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>BCE85D6CD02D4DDD</Id>
+          <Text>what should i eat today?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>FC574E90F6E754E5</Id>
+          <Text>What should i eat today</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>78371F89CD7E0C1C</Id>
+          <Text>What should i eat today.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D4D0CA3DA22821BC</Id>
+          <Text>What should i eat today?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B0FB7706F729447B</Id>
+          <Text>what to eat</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A128D56E3D9C1150</Id>
+          <Text>what to eat.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>6647F0AC132AB846</Id>
+          <Text>what to eat?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C7E66BFCA8D4BECB</Id>
+          <Text>What to eat</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>62EAC0CF8DDF32AF</Id>
+          <Text>What to eat.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>2415E38CC041E507</Id>
+          <Text>What to eat?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>B42B80F5BEEC204F</Id>
+          <Text>I hear sushi sounds very nice. You should try the unagi roll.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>847CBE72EFD6A8E3</Id>
+      <Name>whattoeat</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>59A052A28B9B08B9</Id>
+          <Text>22</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A63E56FDE4052EAD</Id>
+          <Text>what are the medication side effects</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D8FDB4CAD1F7F6AA</Id>
+          <Text>what are the medication side effects?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>DF7850242C91725A</Id>
+          <Text>medication side effects</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E291B40DE404C0B</Id>
+          <Text>side effects?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7AAF8188F34DCE30</Id>
+          <Text>medication side effects of coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E504399973C2EAE2</Id>
+          <Text>medication side effects of coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E3B4A3D89989A6F8</Id>
+          <Text>Medication side effects of coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>67BC4ADA1C5C1DFF</Id>
+          <Text>Medication side effects of coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B5760296B556D75C</Id>
+          <Text>Medication side effects</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B8D94E1A8E5EA5B0</Id>
+          <Text>Side effects?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>5F5E56819B0DA5AD</Id>
+          <Text>What are the medication side effects</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>68BE19DDA08D7F4</Id>
+          <Text>What are the medication side effects?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7912CFBDB3616F39</Id>
+          <Text>what are the medication side effects of coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>47A987DB79AA2BDC</Id>
+          <Text>what are the medication side effects of coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>2590B37CDEA942F6</Id>
+          <Text>What are the medication side effects of coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>4AB3387BDD82D44</Id>
+          <Text>What are the medication side effects of coronary artery disease?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>CE9A1618BB7B520B</Id>
+          <Text>The common medication side effects of coronary artery disease are diarrhia, rash, itching, abdominal pain, headache, chest pain, muscles ache, dizziness, bleeding of the skin, cough, low blood pressure, lightheadedness, irregular heart rate and blurred vision.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>630C63603022B70E</Id>
+      <Name>sideeffects</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>53EADB56C3BA84DE</Id>
+          <Text>24</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F15DBFE98F7C8693</Id>
+          <Text>what's your name</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>80C1BD11215E273A</Id>
+          <Text>what's your name.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A6459905666E9B2F</Id>
+          <Text>what's your name?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>8098ACF03D1103D4</Id>
+          <Text>My name is Lola. Nice to meet you. :-)</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>AC362B2B6473057F</Id>
+      <Name>namecalling</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>791939218358A2DC</Id>
+          <Text>26</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C9579FAB95D23F31</Id>
+          <Text>why do we tell doctors to break a leg.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>43965984B881C5DF</Id>
+          <Text>why do we tell doctors to break a leg?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>BE261EBBD3E3B5C</Id>
+          <Text>Why do we tell doctors to break a leg.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>49127D963C50F086</Id>
+          <Text>Why do we tell doctors to break a leg?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>B68E14AA22B2EFFA</Id>
+          <Text>Because every play has a cast. :-)</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>E98C54D13E031F63</Id>
+      <Name>legjoke</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>6DD847B7504D03D7</Id>
+          <Text>27</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F3417F01115EA975</Id>
+          <Text>i am bored.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>1262DEDAC0566FD7</Id>
+          <Text>i am bored</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>FA215EE39E299B4F</Id>
+          <Text>I am bored</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>6048B8FE5E79DDD2</Id>
+          <Text>I am bored.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>50FE4C074E1F0FA4</Id>
+          <Text>i'm bored</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>FB646A57FD8B7571</Id>
+          <Text>i'm bored.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>4CE0D041E66CA572</Id>
+          <Text>I'm bored</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A22A10C9F3F3AAD</Id>
+          <Text>I'm bored.</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>7DDCB01D73D1E595</Id>
+          <Text>muahahahaha. :-)</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>75DAC9E0529D024B</Id>
+      <Name>bored</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>372509ED4881BE50</Id>
+          <Text>27</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>BFEA3398E44AB947</Id>
+          <Text>what are you</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>46A7C2AF8B9CDCBE</Id>
+          <Text>what are you.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A9F1402F3EE07970</Id>
+          <Text>what are you?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>9F092EAA2B178EA</Id>
+          <Text>What are you</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C962057A7364E69E</Id>
+          <Text>What are you.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>ED76ECDB831DA3E3</Id>
+          <Text>What are you?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>A908C9B548AF5CD3</Id>
+          <Text>I am an AI chatbot. I interact with human by answering their inputs or queries like a message.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>3367E31A91ED4250</Id>
+      <Name>whatareyou</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>EC2D3CC5FE22B480</Id>
+          <Text>28</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>75375DE2F8A14607</Id>
+          <Text>what are your area of expertise</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C9ACBE8A9069DDDE</Id>
+          <Text>what are your area of expertise.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D89376EC754AB067</Id>
+          <Text>what are your area of expertise?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B8637BB66759EEF0</Id>
+          <Text>What are your area of expertise</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7A0365CE9CF635F0</Id>
+          <Text>What are your area of expertise.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>BC8C57B06E5CC50B</Id>
+          <Text>What are your area of expertise?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>CC81B8F3A3467480</Id>
+          <Text>what are your expertise</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>55C2F728A84E1348</Id>
+          <Text>what are your expertise.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>39DA040EE32CF609</Id>
+          <Text>what are your expertise?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>3E96E18418418B63</Id>
+          <Text>What are your expertise</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>9B5BEB5B44ABEC3B</Id>
+          <Text>What are your expertise.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>6BB906D34C57B40</Id>
+          <Text>What are your expertise?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>95872E011DDCC0F</Id>
+          <Text>My area of expertise is having the knowledge of coronary artery disease.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>FDAA7A0AB4176335</Id>
+      <Name>expertise</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>7D97FCBBDA5710F5</Id>
+          <Text>29</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>321BAA956E5C526B</Id>
+          <Text>who is your editor</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>676D4030F9FB56B4</Id>
+          <Text>who is your editor.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>4977865CC3EDB826</Id>
+          <Text>who is your editor?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A777970CACAE18C4</Id>
+          <Text>Who is your editor</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>43C5A6DBF7EB16FE</Id>
+          <Text>Who is your editor.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>DC91397F1742C333</Id>
+          <Text>Who is your editor?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>268E3CCCB2EEC401</Id>
+          <Text>who edited you</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E1456A521C73F1E5</Id>
+          <Text>who edited you?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>93548FC82B632A66</Id>
+          <Text>who edited you.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>66E3131517B48C81</Id>
+          <Text>Who edited you</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E615F6F545EEE75D</Id>
+          <Text>Who edited you.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>1CA29B82556A84C5</Id>
+          <Text>Who edited you?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>3B521D1E45B20624</Id>
+          <Text>My editor is Adryana Azhar. She is a student from Asia Pacific University, Malaysia.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>309A615A39A650FB</Id>
+      <Name>youreditor</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>555794E2D3FD2C6C</Id>
+          <Text>30</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C6B3BD3CBF26464D</Id>
+          <Text>who created you</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B06085C5E91AB490</Id>
+          <Text>who created you.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>78063BAA843F8A8B</Id>
+          <Text>who created you?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>CFD6CFF2358DA368</Id>
+          <Text>Who created you</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E702D350BC6812DE</Id>
+          <Text>Who created you.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>87ACAC30492BD8E7</Id>
+          <Text>Who created you?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>96E8C3B2CA37468</Id>
+          <Text>I was created by Dr. Michael Mauldin and Peter Plantec in the mid 90s.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>1290D352D53637C5</Id>
+      <Name>whocreateyou</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>4E9C71FD3A67705</Id>
+          <Text>31</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E395C3F28097299B</Id>
+          <Text>when were you created</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C7BFB146DBE607E1</Id>
+          <Text>when were you created.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>AA860A218E1D8DC2</Id>
+          <Text>when were you created?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>53AA951E686CC4B6</Id>
+          <Text>When were you created</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>4D426F21CF284EC9</Id>
+          <Text>When were you created.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>570A5BF421DE88FC</Id>
+          <Text>When were you created?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>103A8BB2661D3AB1</Id>
+          <Text>Accomplished computer scientist Michael Mauldin coined the term "chatterbot" in 1994. Even though chatbots had existed in some form for nearly 30 years prior, they wouldn't receive a proper name until the mid 90s, when Michael Mauldin invented Verbot.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>DC2F4CFB7CA4F488</Id>
+      <Name>whencreate</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>89EA6BB4D63F6B49</Id>
+          <Text>32</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>48D19C31CC13CBBE</Id>
+          <Text>how long have chatbot been around.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>FA8825BF80262461</Id>
+          <Text>how long have chatbot been around</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C6DCD88741D7C802</Id>
+          <Text>how long have chatbot been around?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>CD62C436F1715B2D</Id>
+          <Text>How long have chatbot been around</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>5160742C905D7DBC</Id>
+          <Text>How long have chatbot been around.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>951FC1C46CD17D38</Id>
+          <Text>How long have chatbot been around?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>55E3BEF4169CD472</Id>
+          <Text>how long chatbot been around</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>34A2339185F3DE3B</Id>
+          <Text>how long chatbot been around.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>3ADE62C1444B8619</Id>
+          <Text>how long chatbot been around?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F415E3A5A429626</Id>
+          <Text>How long chatbot been around</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>9453F367948946F1</Id>
+          <Text>How long chatbot been around.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>3F8B2646D5A1009B</Id>
+          <Text>How long chatbot been around?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>505148D94AFD8CCD</Id>
+          <Text>how old are chatbots</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C1CA7A89BFE46F19</Id>
+          <Text>how old are chatbots.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>DC4E8A67A933F5CB</Id>
+          <Text>how old are chatbots?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C924FB45F332B400</Id>
+          <Text>How old are chatbots</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>CAEE48C4513408C0</Id>
+          <Text>How old are chatbots.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>BDE4A508AA51F0A9</Id>
+          <Text>How old are chatbots?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>9CB9FFD65F9C7207</Id>
+          <Text>how long have chatbots been around</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>EAA0E400877E7E4A</Id>
+          <Text>how long have chatbots been around.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>4531B5BE29786EF</Id>
+          <Text>how long have chatbots been around?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>49F104A24C1473E1</Id>
+          <Text>How long have chatbots been around</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E1F7183778DD2951</Id>
+          <Text>How long have chatbots been around.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>5AFEE06A8D7C04E0</Id>
+          <Text>How long have chatbots been around?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>1160BCAE5C90967A</Id>
+          <Text>The first chatbot ever was developed by MIT professor Joseph Weizenbaum in the 1960s. It was called ELIZA. You'll read more about ELIZA and other popular chatbots that were developed in the second half of the 20th century later on. In the year 2009, a company called WeChat in China created a more advanced Chatbot. So to get to the point chatbots have been around since 1966.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>FB4F96BBDEF4509</Id>
+      <Name>howlongchatbot</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>348CC77A99EDBC40</Id>
+          <Text>33</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>27D57F1DC60196F</Id>
+          <Text>how many languages can a chatbot speak</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>1787F288A3EC0F46</Id>
+          <Text>how many languages can a chatbot speak.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A684533EE5E2842</Id>
+          <Text>how many languages can a chatbot speak?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A86189BB91EAED8</Id>
+          <Text>How many languages can a chatbot speak</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>2A4D191984C8AA3A</Id>
+          <Text>How many languages can a chatbot speak.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>978BF5A195053CE0</Id>
+          <Text>How many languages can a chatbot speak?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>C7AE81A2D153531E</Id>
+          <Text>Just over a year ago, a majority of bots spoke one or two languages, with the most polyglot speaking 30 to 40 languages. We've only reached this wide range of bot fluency now thanks to advancements in AI and natural language processing.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>5ADBF5EBB13B9EBE</Id>
+      <Name>languages</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>B43B957038CC37F9</Id>
+          <Text>34</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>2B1641F17E4596C7</Id>
+          <Text>how does a chatbot works</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>2A093A55286449C8</Id>
+          <Text>how does a chatbot works.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>33F30EA182AB09E7</Id>
+          <Text>how does a chatbot works?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>DED09D301C26F077</Id>
+          <Text>How does a chatbot works</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D75BD3DC109F3948</Id>
+          <Text>How does a chatbot works.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>29DA48D3107D1C54</Id>
+          <Text>How does a chatbot works?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>6BF487FF36BA3F9D</Id>
+          <Text>how chatbot works</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>2889519E3D351F29</Id>
+          <Text>how chatbot works.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>138E34E1D475E175</Id>
+          <Text>how chatbot works?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7DD6D9E7A6B13035</Id>
+          <Text>How chatbot works</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>26FEF06E2C53E0D5</Id>
+          <Text>How chatbot works.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E85C178E4434FFDF</Id>
+          <Text>How chatbot works?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>647EFF3F67244B95</Id>
+          <Text>Chatbot or bot is a computer program that simulates a natural human conversation. Users communicate with a chatbot via the chat interface or by voice, like how they would talk to a real person. Chatbots interpret and process user's words or phrases and give an instant pre-set answer.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>30F1181B43AB9F2</Id>
+      <Name>chatbotworks</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>CD8571D57456BDC5</Id>
+          <Text>35</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E88E9B0B5D0F63D3</Id>
+          <Text>what causes coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>AED623C5930AB53</Id>
+          <Text>what causes coronary artery disease.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>5023686252E31BD8</Id>
+          <Text>what causes coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7E0755B9503C67F7</Id>
+          <Text>What causes coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>2537CFA16C33351A</Id>
+          <Text>What causes coronary artery diseaseWhat causes coronary artery disease.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>EECF19B5A06138E4</Id>
+          <Text>What causes coronary artery disease.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D119616080C83125</Id>
+          <Text>What causes coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>10CB5736DF1E22</Id>
+          <Text>causes of coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A4C83104E21406D9</Id>
+          <Text>causes of coronary artery disease.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B1C1BE2337CE6574</Id>
+          <Text>causes of coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>4175F11668CDA8A9</Id>
+          <Text>Causes of coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>849255DCB968F7B</Id>
+          <Text>Causes of coronary artery disease.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E56BAF372691948D</Id>
+          <Text>Causes of coronary artery disease?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>11B9F32AB471F7D2</Id>
+          <Text>Cholesterol-containing deposits (plaques) in your coronary arteries and inflammation are usually to blame for coronary artery disease. The coronary arteries supply blood, oxygen and nutrients to your heart. A buildup of plaque can narrow these arteries, decreasing blood flow to your heart.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>7FC5491F9514D46E</Id>
+      <Name>cause</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>117CD026CD6B8791</Id>
+          <Text>36</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>BC7EE90183A448D7</Id>
+          <Text>knock knock</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>43CCAE913DD780A9</Id>
+          <Text>knock knock.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>8D70A61866E85B75</Id>
+          <Text>knock knock?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>CB4F2BB8D9D10121</Id>
+          <Text>Knock knock</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F771C02EAA4AAA75</Id>
+          <Text>Knock knock.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>6783624AF4EB87A6</Id>
+          <Text>Knock knock?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>54EC0BB330B91181</Id>
+          <Text>Knock Knock</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A7BE1AF5FF6487AC</Id>
+          <Text>Knock Knock.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>18543F97C65F8B39</Id>
+          <Text>Knock Knock?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>FE2230F52B2A3E26</Id>
+          <Text>Who's there? Ouh wait must be a..... person. Hahaha. :-)</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>5FD1A8278121CC54</Id>
+      <Name>knockknock</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>166B76F75950644E</Id>
+          <Text>37</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C5591734C189C80E</Id>
+          <Text>what</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>19A6729FC6F7D57A</Id>
+          <Text>what.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>497A8255C228927D</Id>
+          <Text>what?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>BAE2CF65CC6E11B9</Id>
+          <Text>What</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D512E4E27C7C082B</Id>
+          <Text>What.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>3C7E017C72B7D5E8</Id>
+          <Text>What?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>BA5A06DF18B97F79</Id>
+          <Text>Why? Is something wrong?</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>968EE19DF27D519D</Id>
+      <Name>whathe</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>E86F47305B069FBF</Id>
+          <Text>38</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E84FA4E7C689BF2E</Id>
+          <Text>how to avoid getting coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F30046E6BE9BCAE4</Id>
+          <Text>how to avoid getting coronary artery disease.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>11775C90846F7ECD</Id>
+          <Text>how to avoid getting coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>99046908A3F6EEF2</Id>
+          <Text>How to avoid getting coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A207B767BAE1A08A</Id>
+          <Text>How to avoid getting coronary artery disease.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>ABCFBDE67C04A627</Id>
+          <Text>How to avoid getting coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B32AE6576E91024C</Id>
+          <Text>how can someone avoid from getting coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E62F50CA36689D82</Id>
+          <Text>how can someone avoid from getting coronary artery disease.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>FB17C04D503A09EE</Id>
+          <Text>how can someone avoid from getting coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B79020C08499E6B2</Id>
+          <Text>How can someone avoid from getting coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>EC2A36A0F25A3866</Id>
+          <Text>How can someone avoid from getting coronary artery disease.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7A1D5B99AAAEDFE4</Id>
+          <Text>How can someone avoid from getting coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>516E75DA3F583DA2</Id>
+          <Text>how can someone avoid getting coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>316D3F99ECEE02FB</Id>
+          <Text>how can someone avoid getting coronary artery disease.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>6508774226272D3C</Id>
+          <Text>how can someone avoid getting coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D0D0058EB9EA0405</Id>
+          <Text>how to avoid getting coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>BBA866C87228022E</Id>
+          <Text>how to avoid getting coronary artery disease.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>911415C75C963147</Id>
+          <Text>how to avoid getting coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>94096C46F1872480</Id>
+          <Text>How to avoid getting coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>5ADA6C5EEA59F22E</Id>
+          <Text>How to avoid getting coronary artery disease.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A3CC2636744B71B7</Id>
+          <Text>How to avoid getting coronary artery disease?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>943A17B69BB95E36</Id>
+          <Text>The first step is eat a healthy and balanced diet. Second, be more physically active. Third, keep to a healthy weight. Fourth, give up smoking, only if you are smoking. Fifth, reduce your alcohol consumption. Last but not least, keep your blood pressure under control.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>8B107F622D353067</Id>
+      <Name>reducerisks</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>263AA5D43CAF668C</Id>
+          <Text>39</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7BD5FEA4B8D22B74</Id>
+          <Text>does eating unhealthy cause coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7894EA24E3F9BBBE</Id>
+          <Text>does eating unhealthy cause coronary artery disease.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>FF8AB334C1AD34ED</Id>
+          <Text>does eating unhealthy cause coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E0473D0321D6C0C</Id>
+          <Text>Does eating unhealthy cause coronary artery disease</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>22672E381F9C03D</Id>
+          <Text>Does eating unhealthy cause coronary artery disease.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>BB565C60E64894A2</Id>
+          <Text>Does eating unhealthy cause coronary artery disease?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>9E73A1D9624BC050</Id>
+          <Text>what happens when i eat unhealthy food</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>9C73D58A94A4304F</Id>
+          <Text>what happens when i eat unhealthy food.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>5FF9AA0F783DA302</Id>
+          <Text>what happens when i eat unhealthy food?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>3E7902A215954961</Id>
+          <Text>What happens when i eat unhealthy food</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>722CE095D941EC8E</Id>
+          <Text>What happens when i eat unhealthy food.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B528E2D6C4926C5</Id>
+          <Text>What happens when i eat unhealthy food?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>FFF761E28AD758B1</Id>
+          <Text>What happens when someone eat unhealthy food</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>1C982C7074DC744F</Id>
+          <Text>What happens when someone eat unhealthy food.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>81FCE8E842B92D95</Id>
+          <Text>What happens when someone eat unhealthy food?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>17EAB2A59BE947</Id>
+          <Text>what happens when someone eat unhealthy food</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>BD9A079034CA84EA</Id>
+          <Text>what happens when someone eat unhealthy food.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>26C0B85420E89D71</Id>
+          <Text>what happens when someone eat unhealthy food?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>16552E1D5B2EF50C</Id>
+          <Text>what happens when someone eats to much unhealthy food</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E080C562EDD70F0D</Id>
+          <Text>what happens when someone eats to much unhealthy food.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>656F855933C1D116</Id>
+          <Text>what happens when someone eats to much unhealthy food?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D1CC5AF65638FA2D</Id>
+          <Text>What happens when someone eats to much unhealthy food</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D885DDD348B946C0</Id>
+          <Text>What happens when someone eats to much unhealthy food.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>30E210CA6C0C193A</Id>
+          <Text>What happens when someone eats to much unhealthy food?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>FD984FAB6B65E2D9</Id>
+          <Text>Diet is an important risk factor in coronary heart disease. Food-related risk factors include obesity, high blood pressure, uncontrolled diabetes and a diet high in saturated fats. A low saturated fat, high-fibre, high plant food diet can substantially reduce the risk of developing coronary artery disease or any heart disease.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>78CEECCF9BA37A9</Id>
+      <Name>unheathlyfood</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>F69005DCF42A0431</Id>
+          <Text>40</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>73B6C03F286D8EF8</Id>
+          <Text>can i still smoke</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>45F8CD45D2B2B1D7</Id>
+          <Text>can i still smoke.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>77ABC440BF926538</Id>
+          <Text>can i still smoke?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C5C9038DC33F4A8F</Id>
+          <Text>Can i still smoke</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7A86098EF4643B2</Id>
+          <Text>Can i still smoke.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>589C8013624998BE</Id>
+          <Text>Can i still smoke?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>7F39407457485D96</Id>
+          <Text>does smoking makes it worse</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>AA94AA47D03C6740</Id>
+          <Text>does smoking makes it worse.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>AEB7D83CF2D9B94A</Id>
+          <Text>does smoking makes it worse?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>110D56F257587307</Id>
+          <Text>Does smoking makes it worse</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>1B7B727670AC6720</Id>
+          <Text>Does smoking makes it worse.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>40735887DD58ACD0</Id>
+          <Text>Does smoking makes it worse?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>649416DD1A7EE2BA</Id>
+          <Text>Stop smoking. Nicotine raises your blood pressure, which contributes to coronary artery disease.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>D543422DCCF026DC</Id>
+      <Name>smoking</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>8098CDF9EC7B830F</Id>
+          <Text>41</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>696BB4943A042E13</Id>
+          <Text>what do you do</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E85B425513FFAD1B</Id>
+          <Text>what do you do.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D938C8BC5C387B74</Id>
+          <Text>what do you do?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D3C115E41E237D3C</Id>
+          <Text>What do you do</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>12615054AAFF1DB8</Id>
+          <Text>What do you do.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A456ADBFE669A88F</Id>
+          <Text>What do you do?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>5582CAE07C3FAFF8</Id>
+          <Text>I am a medical assistant for Coronary Artery Disease. I can answer your questions about Coronary Artery Disease.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>D3C4F37422A5E585</Id>
+      <Name>whatdoyoudo</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>D00940247D5A5B66</Id>
+          <Text>42</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>80BA6B1EAE2B0344</Id>
+          <Text>introduce yourself</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>72C4973F50080897</Id>
+          <Text>introduce yourself.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>69918B42A6664D1A</Id>
+          <Text>Introduce yourself</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>34138EDAA1B8478A</Id>
+          <Text>Introduce yourself.</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>C2078E1B6BFED597</Id>
+          <Text>My name is Lola and I am a medical assistant for Coronary Artery Disease. So if you have any questions about coronary artery disease, please do ask me. Thank you, hope to hear from you soon.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>EA267A08B2E457C2</Id>
+      <Name>introduceyourself</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>540C12FAC2EA4EFF</Id>
+          <Text>41</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>DBB5BF962F405D65</Id>
+          <Text>what expression can you make</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>99181D758077DCF9</Id>
+          <Text>what expression can you make.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>8419BD25AF706590</Id>
+          <Text>what expression can you make?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>46B2C1C0EC1AFED3</Id>
+          <Text>What expression can you make</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>79A99B5C6D642ACE</Id>
+          <Text>What expression can you make.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>BBD215572749C3CF</Id>
+          <Text>What expression can you make?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>BD9B42818E3B121E</Id>
+          <Text>how many expression can you make</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>2B9D6CC5E3BFA64D</Id>
+          <Text>how many expression can you make.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>75E08ECC7D709E20</Id>
+          <Text>how many expression can you make?</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>2A1750088A4A042B</Id>
+          <Text>How many expression can you make</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>8038FE14C3B4B681</Id>
+          <Text>How many expression can you make.</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>856527FA83D31AF0</Id>
+          <Text>How many expression can you make?</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>13F55DDD51096A84</Id>
+          <Text>I can make angry !:(, look around 8-), curious Q:), sad:-(, tounge :-P, suprise :-O, angry !:-( and smile :-) expressions. There is a total of 8 expressions that i can make.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>1FB31C015A7D8CB</Id>
+      <Name>expressions</Name>
+    </Rule>
+  </Rules>
+  <ResourceFiles>
+    <ResourceFile>
+      <Filename>Default.vrp</Filename>
+      <Filetype>ReplacementProfileFile</Filetype>
+    </ResourceFile>
+    <ResourceFile>
+      <Filename>Default.vsn</Filename>
+      <Filetype>SynonymFile</Filetype>
+    </ResourceFile>
+  </ResourceFiles>
+  <Info>
+    <Author />
+    <Copyright />
+    <License />
+    <AuthorWebsite />
+    <CreationDate>2021-07-07T21:57:07.7984034+08:00</CreationDate>
+    <LastUpdateDate>2021-08-19T16:52:31.005253+08:00</LastUpdateDate>
+    <Rating>
+      <Rating>Unknown</Rating>
+      <Language>false</Language>
+      <Sexual>false</Sexual>
+      <Violence>false</Violence>
+      <Other>false</Other>
+      <Description />
+    </Rating>
+    <Category>Other</Category>
+    <Language>English</Language>
+    <Comment>Describe your KnowledgeBase here</Comment>
+  </Info>
+  <Version>1.0</Version>
+  <Build>126</Build>
+</KnowledgeBase>

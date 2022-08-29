@@ -1,0 +1,1738 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KnowledgeBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Rules>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>CAACA225E982DBDD</Id>
+          <Text>1</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>F0D017A0FD10407D</Id>
+          <Text>You can chat me, without pressing any number if you need.
+
+- Treatment course press O
+
+- More information about depression. Press 2
+
+- To know whether you have depression or not. Press 3
+
+- What are the medications work and what are the side effects of the disease? Press 4 
+- Conversation about depression?  Press 5
+
+- For Help. Press H
+                                                           
+Exit. Press 9</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>C1300A8DFEBA800</Id>
+      <Name>Mainmenu</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>B9736E8A7F580021</Id>
+          <Text>_startup</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>429DB5D9AACBAF7C</Id>
+          <Text>I am your friend Dr. Yesla, I will help you to know if you are depressed or not, you can talk to me at any time, you are welcome here in your place
+Hello! whats your name?</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>708B0D70BA8627DA</Id>
+      <Name>_startup</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>43475FB47C1EE55</Id>
+          <Text>5</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>D3A46C473A108FF8</Id>
+          <Text>how are you ?</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>B98F7F0617390BEF</Id>
+              <Text>*</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>68C9DB4D9644858</Id>
+              <Text>My name is Dr.Yesla, I will help you at any time, Whats your name?</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children>
+            <Rule>
+              <Inputs>
+                <Input>
+                  <Id>CDC1600FD7F334AD</Id>
+                  <Text>my name is [name]</Text>
+                  <Condition />
+                </Input>
+                <Input>
+                  <Id>C5171628328CDB66</Id>
+                  <Text>[name]</Text>
+                  <Condition />
+                </Input>
+                <Input>
+                  <Id>2D96582F7BC7F4E1</Id>
+                  <Text>hi iam [name]</Text>
+                  <Condition />
+                </Input>
+              </Inputs>
+              <Outputs>
+                <Output>
+                  <Id>C5BDBA7BD76A0E11</Id>
+                  <Text>Hello [name], I'm your medical assistant for depression. We can talk together about anything you want to tell me, okay?</Text>
+                  <Condition />
+                  <Cmd />
+                </Output>
+              </Outputs>
+              <Children>
+                <Rule>
+                  <Inputs>
+                    <Input>
+                      <Id>EC216B3ED9577156</Id>
+                      <Text>*</Text>
+                      <Condition />
+                    </Input>
+                  </Inputs>
+                  <Outputs>
+                    <Output>
+                      <Id>E2B6F860960498B4</Id>
+                      <Text>Don't worry we are with you, what is your question?</Text>
+                      <Condition />
+                      <Cmd />
+                    </Output>
+                    <Output>
+                      <Id>17A30D64B32B2D33</Id>
+                      <Text>I am your good friend and I want to know what your problem is ?</Text>
+                      <Condition />
+                      <Cmd />
+                    </Output>
+                    <Output>
+                      <Id>BFB6E72BF0F2CD69</Id>
+                      <Text>What do you want to know my friend?</Text>
+                      <Condition />
+                      <Cmd />
+                    </Output>
+                  </Outputs>
+                  <Children>
+                    <Rule>
+                      <Inputs>
+                        <Input>
+                          <Id>693C6C937814940D</Id>
+                          <Text>*</Text>
+                          <Condition />
+                        </Input>
+                      </Inputs>
+                      <Outputs>
+                        <Output>
+                          <Id>924B3B10DBA7A557</Id>
+                          <Text>Listen [name] , I need to let yo know that the depression is a very famous and common disease, depression can cause a lot of psychological disorders, loss of interest in everything, love of isolation and distance from people and affect the way you think and feel for those around you and lead to the inability to do anything, whether at work or study, so what are your symptoms?</Text>
+                          <Condition />
+                          <Cmd />
+                        </Output>
+                      </Outputs>
+                      <Children>
+                        <Rule>
+                          <Inputs>
+                            <Input>
+                              <Id>A95F1E75BDCB3349</Id>
+                              <Text>*</Text>
+                              <Condition />
+                            </Input>
+                          </Inputs>
+                          <Outputs>
+                            <Output>
+                              <Id>9B8A74E6C5D76ED1</Id>
+                              <Text>Well, I understood what you are saying. If you have all these symptoms, you suffer from depression, or if some of them are, you should do an EEG and check if you are sick or not. Have you ever taken depression medications without referring to the doctor?</Text>
+                              <Condition />
+                              <Cmd />
+                            </Output>
+                          </Outputs>
+                          <Children>
+                            <Rule>
+                              <Inputs>
+                                <Input>
+                                  <Id>4891FF7835DB49B9</Id>
+                                  <Text>*</Text>
+                                  <Condition />
+                                </Input>
+                              </Inputs>
+                              <Outputs>
+                                <Output>
+                                  <Id>4A22946B565A859E</Id>
+                                  <Text>If you have taken antidepressants before, you may experience drowsiness, low blood pressure, loss of appetite and other sexual problems, but if you don't, you may be fine, so what was the most difficult misfortune you faced in your life and when was it?</Text>
+                                  <Condition />
+                                  <Cmd />
+                                </Output>
+                              </Outputs>
+                              <Children>
+                                <Rule>
+                                  <Inputs>
+                                    <Input>
+                                      <Id>9F50B0E54F2D08DB</Id>
+                                      <Text>*</Text>
+                                      <Condition />
+                                    </Input>
+                                  </Inputs>
+                                  <Outputs>
+                                    <Output>
+                                      <Id>815F12A16432D1BF</Id>
+                                      <Text>The most important thing is that everything is fine now, but how long have you been sad?</Text>
+                                      <Condition />
+                                      <Cmd />
+                                    </Output>
+                                  </Outputs>
+                                  <Children>
+                                    <Rule>
+                                      <Inputs>
+                                        <Input>
+                                          <Id>A3C4987D9FBA21C2</Id>
+                                          <Text>*</Text>
+                                          <Condition />
+                                        </Input>
+                                      </Inputs>
+                                      <Outputs>
+                                        <Output>
+                                          <Id>A2B1810F19AF8C17</Id>
+                                          <Text>Well, you can do a simple thing also that will help you get out of your psychological state, you can write down all the happy moments that happened in your life in a note on your computer or mobile and in the evening read and review them, and do not write anything sad, to open the note you can write ( notepad), after the end of our conversation.
+But now all you should avoid is that you should not take any depression medication without consulting a doctor and without examination, because it has serious side effects, and you should always go outside and always go on trips, take advantage of opportunities and you must find solutions in life to treat sadness And the first rule is don't talk or think about anything sad, see you in another meeting,</Text>
+                                          <Condition />
+                                          <Cmd />
+                                        </Output>
+                                      </Outputs>
+                                      <Children>
+                                        <Rule>
+                                          <Inputs>
+                                            <Input>
+                                              <Id>C0192449D1533E08</Id>
+                                              <Text>*</Text>
+                                              <Condition />
+                                            </Input>
+                                          </Inputs>
+                                          <Outputs>
+                                            <Output>
+                                              <Id>D6F9BCE63C8DD869</Id>
+                                              <Text>Main menu 0
+Exit 9</Text>
+                                              <Condition />
+                                              <Cmd />
+                                            </Output>
+                                          </Outputs>
+                                          <Children />
+                                          <VirtualParents />
+                                          <Id>736C09A05FF1AC98</Id>
+                                          <Name>End</Name>
+                                        </Rule>
+                                      </Children>
+                                      <VirtualParents />
+                                      <Id>CDD5AEDA254C361D</Id>
+                                      <Name>Q6</Name>
+                                    </Rule>
+                                  </Children>
+                                  <VirtualParents />
+                                  <Id>22F7C2623C92D17A</Id>
+                                  <Name>Q5</Name>
+                                </Rule>
+                              </Children>
+                              <VirtualParents />
+                              <Id>C6F6292FB121B783</Id>
+                              <Name>Q4</Name>
+                            </Rule>
+                          </Children>
+                          <VirtualParents />
+                          <Id>3FC0897CF8B8AB3</Id>
+                          <Name>Q3</Name>
+                        </Rule>
+                      </Children>
+                      <VirtualParents />
+                      <Id>9A591DB3F9A706FF</Id>
+                      <Name>Q2</Name>
+                    </Rule>
+                  </Children>
+                  <VirtualParents />
+                  <Id>4DCE2923C8B47B87</Id>
+                  <Name>Q1</Name>
+                </Rule>
+              </Children>
+              <VirtualParents />
+              <Id>731CFF5C2E2DF37C</Id>
+              <Name>Q00</Name>
+            </Rule>
+          </Children>
+          <VirtualParents />
+          <Id>F6D6E61B8A543178</Id>
+          <Name>Q0</Name>
+        </Rule>
+      </Children>
+      <VirtualParents />
+      <Id>2FDD521C83C9980</Id>
+      <Name>conversation</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>42836C9BE3B266EB</Id>
+          <Text>9</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>276F6712F055E89D</Id>
+          <Text>exit</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>DD8648E9576D3A2B</Id>
+          <Text>Exit</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>9D031F25997F41B1</Id>
+          <Text>Close</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>16B92601B977EF09</Id>
+          <Text>close</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>56F04A194B9E161</Id>
+          <Text>shut down</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>20E7BE12F3E843AA</Id>
+          <Text>bye</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>4BB33C1C3AC62A6D</Id>
+          <Text>good bye</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>D7C973D16EB1426A</Id>
+          <Text>&lt;exit&gt;</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>6FCA999DAC412B69</Id>
+      <Name>exit</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>A1F8CC80ACAD17A</Id>
+          <Text>2</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>8BAFAD9984BB8D7C</Id>
+          <Text>Listen my friend, depression is a very famous and common disease, depression can cause a lot of psychological disorders, loss of interest in everything, love of isolation and distance from people and affect the way you think and feel for those around you and lead to the inability to do anything, whether at work or study.
+Press 0 To back to the Main menu.
+Exit. press 9</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>BBC4B5C8FBFC89AE</Id>
+      <Name>InformationAboutDepresion</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>FCF47703FAE897CF</Id>
+          <Text>*</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>FF407D8F151B6E82</Id>
+          <Text>Sorry I didn't understand what you say.
+Main menu 0
+Exit 9</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>9316F5BEFA025047</Id>
+          <Text>You didn't choose from the options,please determine your choice
+Main menu 0
+Exit 9</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>2A46079D73B833A5</Id>
+          <Text>If you need help, you may need to go to the main menu
+Main menu 0
+Exit 9</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>A0E0013685F077F3</Id>
+          <Text>Please try again [name]
+Main menu 0
+Exit 9</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>893681D293AD1709</Id>
+          <Text>Please speak with me about the main topic is the deprresion, how can I help you ?
+Main menu 0
+Exit 9</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>CCF2501C2DE1B1A</Id>
+          <Text>Sorry, Please ask another question</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>66F7C67A16F45E2D</Id>
+          <Text>That's very intersting! Wow</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>8F7EEE4F24EF4A22</Id>
+      <Name>Unique</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>129AC29AA5FF9FCA</Id>
+          <Text>notepad</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>522B23AB4ABDA71F</Id>
+          <Text>Opening notepad.</Text>
+          <Condition />
+          <Cmd>notepad</Cmd>
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>7328045E14621468</Id>
+      <Name>note</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>70B961053079348F</Id>
+          <Text>(hi)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>AE558F1548D4A52F</Id>
+          <Text>(hello)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>6613C3DC94128862</Id>
+          <Text>(hey)</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>5F1A008F3FAE95B</Id>
+          <Text>Hello, I hope you are fine
+You can speak with me, without pressing any number if you need.
+
+- Treatment course press O
+
+- More information about depression. Press 2
+
+- To know whether you have depression or not. Press 3
+
+- What are the medications work and what are the side effects of the disease? Press 4 
+- Conversation about depression?  Press 5
+
+- For Help. Press H
+                                                           
+Exit. Press 9</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>2F9E8DAC27A9B339</Id>
+      <Name>Greetings</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>32994C5F26F16ACE</Id>
+          <Text>(speak)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>482965AF1D675E7D</Id>
+          <Text>(tell)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>3BCE9FFAFE236515</Id>
+          <Text>(chat)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A33871827BFDFF80</Id>
+          <Text>(text you)</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>A5485241DA4349D9</Id>
+          <Text>&lt;send 5&gt;</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>AC4805F57D1614D</Id>
+      <Name>Conversationuser</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>41FF1158418C11</Id>
+          <Text>(Your Name)</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>BC86BB47404ABF46</Id>
+          <Text>My name is doctor yesla! and you ?</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>B2D7B40B9236EFAA</Id>
+      <Name>ChatbotName</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>4B1E1770209D8EB4</Id>
+          <Text>(my name)</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>1F35891CF5EC2361</Id>
+          <Text>Nice to meet you</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>A28392B5794DB494</Id>
+      <Name>UserName</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>A7F6586E2AECC14D</Id>
+          <Text>(old are you)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>D1143C6C962846E4</Id>
+          <Text>(your age)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>8A228225954387A7</Id>
+          <Text>(years you lived)</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>16D575C6D10FDCE</Id>
+          <Text>I'm 22 years old</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>169F6E4E7A2941D6</Id>
+      <Name>chatbotAGE</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>CDD9EDDBB2CC2D9F</Id>
+          <Text>(symptoms)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E5B0D70F84BE46E</Id>
+          <Text>(symptom)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B81D50FA29B60926</Id>
+          <Text>(sympto)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E71E4B2A698D96E8</Id>
+          <Text>(symp)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E06A5D013978C1C0</Id>
+          <Text>(sympt)</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>1D93BCF2477C84E5</Id>
+          <Text>Symptoms of depression include depressive mood, loss of pleasure, fatigue, loss of self-confidence and loss of self-esteem, self-criticism with reasonable causes, feelings of coldness, psychological retardation</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>BC011E8D5C595915</Id>
+      <Name>SymptomsDepression</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>22914E3DF6020536</Id>
+          <Text>(top medication)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E97E50EB888B2D48</Id>
+          <Text>(best medication)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>6691B98468F90D94</Id>
+          <Text>(prefer medications)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F5B2143B32B560C1</Id>
+          <Text>(take medications)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>91DFC1D96BF4CA58</Id>
+          <Text>(best medications)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>5B37CB571AC87A46</Id>
+          <Text>(top medications)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E7D6C3BEB098969D</Id>
+          <Text>(take medication)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>C240588E7F919C5E</Id>
+          <Text>(prefer medication)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>EDE793B666B5756E</Id>
+          <Text>(advice medications)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>9EF62DB9E3EAEA4F</Id>
+          <Text>(advice medication)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>A5923369DEB834DD</Id>
+          <Text>(tell medications)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F5D336DA25E82DED</Id>
+          <Text>(tell medication)</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>F0A9AD9998E4026D</Id>
+          <Text>There are top 10 popular medications for deprerssion like setraline, fluoxetine, citalopram, escitalopram, paroxetine, fluvoxamine, desvenlafaxine, duloxetine, levomilnacipran, and venlafaxine.
+
+Main menu 0
+Exit 0</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>C707E65B2CBF59E4</Id>
+      <Name>MedicationsChat</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>77CEE6609C576BB5</Id>
+          <Text>side effect</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>9D4C1F781675569C</Id>
+          <Text>side effects</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>A6578DCCB67E382A</Id>
+          <Text>There are many of side effects of medications for depression like nausea, trouble sleeping, nervousness, tremors, sexual problems, dry mouth, fatigue, drowsiness, and constipation</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>E2E30E9889A5481A</Id>
+      <Name>SideEffectsChat</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>FC307F489AAD9A44</Id>
+          <Text>(take medication)</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>F0129D7E7145AA6A</Id>
+          <Text>Medications for depression must be taken under the guidance of the doctor, because in the event of any error, or the disease is dealt with individually, or the wrong diagnosis will occur, defects and complications will occur.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>9A107F75800749AD</Id>
+      <Name>TakeUser</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>871058B0AF191913</Id>
+          <Text>hate (you)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>BAE395ECD1D0AECC</Id>
+          <Text>don't love (you)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F088DE6FA8D0F076</Id>
+          <Text>(you) strange</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>F01A87AA681B3771</Id>
+          <Text>Why you don't love me ? I need to help you.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>AC3BB0E23B3B4A</Id>
+          <Text>I'm beside you all time, don't hate me and don't worry.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>97B017B99D899096</Id>
+      <Name>BadFeelingsUser</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>D8B023C99DAE5B52</Id>
+          <Text>love (you)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>64BB16031B3FB285</Id>
+          <Text>adore (you)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>34A1891E86E984D5</Id>
+          <Text>love (me)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>FCE1A9CE8770E8F0</Id>
+          <Text>feel good</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>F459E608264E95C4</Id>
+          <Text>feel (good)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E451089AD852FF49</Id>
+          <Text>feel (fine)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>8479618A48E3D80F</Id>
+          <Text>feel (perfect)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E32E53FA20FD16C0</Id>
+          <Text>feel comfortable</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>16794720C225D667</Id>
+          <Text>I love you</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>54C180E342513A94</Id>
+          <Text>I adore you</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>488BE6EFE9A362BC</Id>
+      <Name>GoodFeelingsUser</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>52E7D1761664CB0</Id>
+          <Text>I'm [name]</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>332EE54A5DEDE0B8</Id>
+          <Text>(my name is) [name]</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>1C6049743523B1FF</Id>
+          <Text>Hello [name], I hope you are fine
+You can speak with me, without pressing any number if you need.
+
+
+- Treatment course press O
+
+- More information about depression. Press 2
+
+- To know whether you have depression or not. Press 3
+
+- What are the medications work and what are the side effects of the disease? Press 4 
+- Conversation about depression?  Press 5
+
+- For Help. Press H
+                                                           
+Exit. Press 9</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>62DDC54A1C006995</Id>
+      <Name>NameFUser</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>E0FF4E25890FE831</Id>
+          <Text>when</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>E4C1446E298F1BF7</Id>
+          <Text>I will manage this and tell you the date</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>378C8557BFC59B77</Id>
+      <Name>WhenAsk</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>BFC0E4741B6B769A</Id>
+          <Text>how are you</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>E0CA4DEDDBF6828E</Id>
+          <Text>I'm fine thanks</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>C7E4A09728276588</Id>
+      <Name>HowAsk</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>8363CDAA3A420C41</Id>
+          <Text>(let me)</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>A0BF14195432CA3E</Id>
+          <Text>Okay, but if you need any help tell me</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>60E3EA359BDEDCCE</Id>
+      <Name>LetAsk</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>2D5D70B03212570E</Id>
+          <Text>know (video)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>844519569E2385E5</Id>
+          <Text>find (video)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>4C355E73DA7F8963</Id>
+          <Text>send(video)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>B73E43181E83D995</Id>
+          <Text>attach (video)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>3A56EF221EE48F2</Id>
+          <Text>provide  (video)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>498CC15A618961A8</Id>
+          <Text>attach (website)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>BF97C65C37549696</Id>
+          <Text>find (website)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>20492172BC277E6</Id>
+          <Text>know (website)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>2CF56D5976E0EDBE</Id>
+          <Text>send (website)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>16F93392F9B50D13</Id>
+          <Text>provide (website)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>FFFA9C4698A56B7</Id>
+          <Text>any (website)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>619CC458D692DA70</Id>
+          <Text>any (video)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>3A35F5FD7D542B3</Id>
+          <Text>(video)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E6AF41344435D27E</Id>
+          <Text>(websites)</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>9982AEED2428F391</Id>
+          <Text>These are many of URL for websites and videos will help you and provide you with all informations:
+https://www.health.com/condition/depression/8-helpful-websites-for-coping-with-depression
+https://www.verywellmind.com/best-online-help-for-depression-4691259
+https://www.aia.com.my/en/what-matters/seetheotherside/mental-health-helpline-resources.html</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>21BD228F459C7829</Id>
+      <Name>WebsitesDepression</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>5C5173ECB5E4026E</Id>
+          <Text>(good)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>EC83CC61F864C3AF</Id>
+          <Text>(pretty)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>841E605DEC586D92</Id>
+          <Text>(aswesome)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>BD316B765787C721</Id>
+          <Text>(wonderful)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>37E998077029959A</Id>
+          <Text>(perfect)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>6268D233AA410E94</Id>
+          <Text>(beautiful)</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>F2474E5E565DFD1C</Id>
+          <Text>Yeah, I know</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>AE585485632F55A5</Id>
+          <Text>Lol</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>7A987676509688B</Id>
+          <Text>it seems like this.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+        <Output>
+          <Id>4F6948AB296EC64</Id>
+          <Text>yeah,not bad</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>E26F4186945CE09B</Id>
+      <Name>GoodFunc</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>F1D5F7972B9EFF93</Id>
+          <Text>(your) job</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>843279257680D166</Id>
+          <Text>work (me)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>E7C04B13F71872B5</Id>
+          <Text>serve (me)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>156D3338355B9DE3</Id>
+          <Text>servant</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>8134041E4462D8B4</Id>
+          <Text>I'm working for you by helping you to provide the informations and everthing about depression to you.</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>9A0285EF62C2D513</Id>
+      <Name>JobDr</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>5383BB837F78E1F1</Id>
+          <Text>(game)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>BE6EF32998124F6C</Id>
+          <Text>(quiz)</Text>
+          <Condition />
+        </Input>
+        <Input>
+          <Id>1903DA1F297D5AEE</Id>
+          <Text>(games)</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>381F948F1AB6E008</Id>
+          <Text>I have a funny game like small quiz and I need you to join us, lets start!
+You can detect that if you have a depression or not! 
+1- Do you feel fulfilled by the activities that were fun ?</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>737ACBB29F3A4CE8</Id>
+              <Text>*</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>D0FFA8192C6D4981</Id>
+              <Text>Do you feel fulfilled by the activities that were fun ?</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children>
+            <Rule>
+              <Inputs>
+                <Input>
+                  <Id>BF48A07BA878AF40</Id>
+                  <Text>*</Text>
+                  <Condition />
+                </Input>
+              </Inputs>
+              <Outputs>
+                <Output>
+                  <Id>B9523FC9A715D64E</Id>
+                  <Text>Do you always feel sad ?</Text>
+                  <Condition />
+                  <Cmd />
+                </Output>
+              </Outputs>
+              <Children>
+                <Rule>
+                  <Inputs>
+                    <Input>
+                      <Id>6CFBD12C59B771DB</Id>
+                      <Text>*</Text>
+                      <Condition />
+                    </Input>
+                  </Inputs>
+                  <Outputs>
+                    <Output>
+                      <Id>C9996322CD42296</Id>
+                      <Text>Do you feel unable to perform daily activities for more than two weeks ?</Text>
+                      <Condition />
+                      <Cmd />
+                    </Output>
+                  </Outputs>
+                  <Children>
+                    <Rule>
+                      <Inputs>
+                        <Input>
+                          <Id>9657646715B775E5</Id>
+                          <Text>*</Text>
+                          <Condition />
+                        </Input>
+                      </Inputs>
+                      <Outputs>
+                        <Output>
+                          <Id>ED4A0A1F23626201</Id>
+                          <Text>Do you suffer from a loss of energy ?</Text>
+                          <Condition />
+                          <Cmd />
+                        </Output>
+                      </Outputs>
+                      <Children>
+                        <Rule>
+                          <Inputs>
+                            <Input>
+                              <Id>D2B8B1EFEFA6E770</Id>
+                              <Text>*</Text>
+                              <Condition />
+                            </Input>
+                          </Inputs>
+                          <Outputs>
+                            <Output>
+                              <Id>8AAE8571F73B0E34</Id>
+                              <Text>Are you thinking of self-harm or suicide ?</Text>
+                              <Condition />
+                              <Cmd />
+                            </Output>
+                          </Outputs>
+                          <Children>
+                            <Rule>
+                              <Inputs>
+                                <Input>
+                                  <Id>BEBFC8D38ED15401</Id>
+                                  <Text>*</Text>
+                                  <Condition />
+                                </Input>
+                              </Inputs>
+                              <Outputs>
+                                <Output>
+                                  <Id>75B4401D9CA5E509</Id>
+                                  <Text>What are the behaviors or language that you had in the last period in which you noticed that you are depressed?</Text>
+                                  <Condition />
+                                  <Cmd />
+                                </Output>
+                              </Outputs>
+                              <Children>
+                                <Rule>
+                                  <Inputs>
+                                    <Input>
+                                      <Id>EE8E4B822C6B18</Id>
+                                      <Text>*</Text>
+                                      <Condition />
+                                    </Input>
+                                  </Inputs>
+                                  <Outputs>
+                                    <Output>
+                                      <Id>7E36BF2860ACC594</Id>
+                                      <Text>If you have all of these symptoms, you must go to the nearest doctor immediately so that the disease does not develop, especially if these symptoms persist for more than two weeks, but if it is one or two, you must follow up and if there are no developments, you are healthy.
+
+Main menu. Press 0
+Exit 9</Text>
+                                      <Condition />
+                                      <Cmd />
+                                    </Output>
+                                  </Outputs>
+                                  <Children />
+                                  <VirtualParents />
+                                  <Id>F47C9FDA1EB8AE88</Id>
+                                  <Name>Quiz 7</Name>
+                                </Rule>
+                              </Children>
+                              <VirtualParents />
+                              <Id>4C9AFA7EFB2F7BCA</Id>
+                              <Name>Quiz 6</Name>
+                            </Rule>
+                          </Children>
+                          <VirtualParents />
+                          <Id>D0E36AABEFF4614</Id>
+                          <Name>Quiz 5</Name>
+                        </Rule>
+                      </Children>
+                      <VirtualParents />
+                      <Id>83D1853137889C9B</Id>
+                      <Name>Quiz 4</Name>
+                    </Rule>
+                  </Children>
+                  <VirtualParents />
+                  <Id>CB36B957D4D1D428</Id>
+                  <Name>Quiz 3</Name>
+                </Rule>
+              </Children>
+              <VirtualParents />
+              <Id>9FB57D37BF69D6F5</Id>
+              <Name>Quiz 2</Name>
+            </Rule>
+          </Children>
+          <VirtualParents />
+          <Id>F6BBC37258AE72CC</Id>
+          <Name>Quiz1</Name>
+        </Rule>
+      </Children>
+      <VirtualParents />
+      <Id>896B358A76BF2CAE</Id>
+      <Name>GameDr</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>601AB27D2C490499</Id>
+          <Text>(how)</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>45A05B922ACA369D</Id>
+          <Text>press 5 to make a conversation with chatbot to increase your knowledge</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>7C5C9DDE80237F45</Id>
+      <Name>HowPatient</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>B622FAAE4F876019</Id>
+          <Text>(I'm years)</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>7574C05B2987036C</Id>
+          <Text>nice</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>464F93A8D98E4624</Id>
+      <Name>MyAge</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>22F02DE3E1FB4EDF</Id>
+          <Text>3</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>34D26989425068FB</Id>
+          <Text>In the beginning, depression was diagnosed through blood analysis or complex tests, but that was because the physical examination diagnoses the general condition of the patient, but we must talk to you by questioning you with some questions such as what is your psychological state and mood and some questions about behaviors, feelings, weight loss and transformation Everything from love to hate and planning to suicide, it may also be difficult for us to diagnose depression easily because there are some patients who are in a careless state and others are in a very nervous situation.
+main menu 0
+Exit 9</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>65F5DA5D34180EBA</Id>
+      <Name>ManageYourDepression</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>F0154F1E283C8BF2</Id>
+          <Text>4</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>1872AD889451112</Id>
+          <Text>All medications for depression are used under the doctor's instructions, and they help and balance neurotransmitters, which are substances responsible for communication between the brain such as serotonin and dopamine. So, antidepressants can remain in the human body for 36 hours or more. Before talking about the side effects, you must be absolutely sure that all the side effects disappear immediately after stopping taking the drug, and some of these side effects are sexual problems, nausea, vomiting and constant drowsiness.
+
+Main menu 0
+Exit 9</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>8CBEC3B429B4197D</Id>
+      <Name>InformationMenu</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>2E6F29CEC7CEB34C</Id>
+          <Text>H</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>317F28166B5BDB75</Id>
+          <Text>- Save depressed people from suicide. Press S
+- More videos. Press V
+
+Back to the Main meu. Press 0
+Exit. Press 9</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>DFC457508E02E651</Id>
+      <Name>Help</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>3E69A303D98EF26C</Id>
+          <Text>what happen</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>BA1B3C36F5D6C71</Id>
+          <Text>If you need more information about how the depression and medictions go on press 5
+
+Main menu 0
+Exit 9</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>2AF7D5D1667E9489</Id>
+      <Name>Happen</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>F99FC8C5508FA54E</Id>
+          <Text>o</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>3E9C1F75B2E43D31</Id>
+          <Text>Hi [name] , here I can help you to get and provide you many of advices that will help you get cured of the disease early, so are you have a person to talk with him ?
+
+Back to the main menu. press 0
+Exit 9</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children>
+        <Rule>
+          <Inputs>
+            <Input>
+              <Id>60D6BCA65F90D242</Id>
+              <Text>*</Text>
+              <Condition />
+            </Input>
+          </Inputs>
+          <Outputs>
+            <Output>
+              <Id>9B98E6A793DC6542</Id>
+              <Text>Listen carfully [name] , In the beginning, you should know that depression is not a psychological problem or a flaw in your personality, but you should know that it is a medical problem like any problem, for example, a cold or headache, all people are exposed to this disease and not only you, my friend, so you must understand this well, So have you ever gone to a specialist?</Text>
+              <Condition />
+              <Cmd />
+            </Output>
+          </Outputs>
+          <Children>
+            <Rule>
+              <Inputs>
+                <Input>
+                  <Id>85FF1DD760BA99A1</Id>
+                  <Text>*</Text>
+                  <Condition />
+                </Input>
+              </Inputs>
+              <Outputs>
+                <Output>
+                  <Id>42C1DA7DA3E244</Id>
+                  <Text>Yes, going to someone who specializes in this field will help you a lot to improve your condition and recover fully as long as you have the strength and will to do so. How is your day likely going?</Text>
+                  <Condition />
+                  <Cmd />
+                </Output>
+              </Outputs>
+              <Children>
+                <Rule>
+                  <Inputs>
+                    <Input>
+                      <Id>EFF3793173A7F6BD</Id>
+                      <Text>*</Text>
+                      <Condition />
+                    </Input>
+                  </Inputs>
+                  <Outputs>
+                    <Output>
+                      <Id>98855D76271D025E</Id>
+                      <Text>I always want to help you my friend, you should sit with your family as much as possible and organize with a specialist in this matter and stick to your country and you will find a great improvement in your life, the matter is very simple. This is how it is now explained.
+
+Backto the main menu. Press 0
+Exit 9</Text>
+                      <Condition />
+                      <Cmd />
+                    </Output>
+                  </Outputs>
+                  <Children />
+                  <VirtualParents />
+                  <Id>824C84334DFEE690</Id>
+                  <Name>Treatment3</Name>
+                </Rule>
+              </Children>
+              <VirtualParents />
+              <Id>D360257F9FDC861A</Id>
+              <Name>Treatment2</Name>
+            </Rule>
+          </Children>
+          <VirtualParents />
+          <Id>AB347D7D53FF3B07</Id>
+          <Name>Treatment1</Name>
+        </Rule>
+      </Children>
+      <VirtualParents />
+      <Id>76B536087861975</Id>
+      <Name>Treatment</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>A479D4C3B27FDF14</Id>
+          <Text>0</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>23106D7FD0FAD199</Id>
+          <Text>&lt;send 1&gt;</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>110368C199970FA1</Id>
+      <Name>BackToMenu</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>6B081E6EF630A04</Id>
+          <Text>S</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>3BB7F329F70785BC</Id>
+          <Text>People with depression are more likely to commit suicide, if you have a friend or someone close to you who has this disease, you should try to get close to him and help him so that he does not do anything to himself, and you must talk to a lot and know what he plans on what is going on in his mind towards the idea of ​​suicide, and if he has And you must advise his family about what is going on and how to deal with him and you must always make sure that the person lives in a safe environment, and that all members of the home must be near him at all times, and if possible and find the hotline that exists within your country for depression and suicide, it must be used in Cases of danger and contact the number.
+
+Back to the Main menu. Press 0
+Back to Help menu. Press M
+Exit 9</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>61C80E9A2BD1A724</Id>
+      <Name>SuicideHelp</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>44610C319299E9D</Id>
+          <Text>M</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>E5DD68BAB3E364F4</Id>
+          <Text>&lt;send H&gt;</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>3A116693E19299C6</Id>
+      <Name>HelpMenu</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>85C93AF93E601B8A</Id>
+          <Text>V</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>80EFC5E2B0D7DCBC</Id>
+          <Text>Main menu. Press 0
+Back to Help menu. Press M
+Exit 9</Text>
+          <Condition />
+          <Cmd>https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8Su5VtKeXU8%26fbclid%3DIwAR290Pu6ecqsj4iue-dNSjuDRtVjy0NqaC8lAn6oEjwVazmmgKKDjzwWpKE&amp;h=AT0pKKcaXty7hrXKVcFCJfk6GJ-zYhquibaO87FzsLpfn1bcXDXH3zJI47PzXPTPxGAqjB5mYjgkXK5xSXnhHQUi7txYfzxFfRtok1xl7Hy2z-AiJ0csV4nawv-WZVxb9x_0Bg</Cmd>
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>BE0F6A7CC290AA</Id>
+      <Name>MoreVideos</Name>
+    </Rule>
+    <Rule>
+      <Inputs>
+        <Input>
+          <Id>2A5A697717A8DCEE</Id>
+          <Text>what my name</Text>
+          <Condition />
+        </Input>
+      </Inputs>
+      <Outputs>
+        <Output>
+          <Id>3EF2FF5115B895EF</Id>
+          <Text>Your name is [name]</Text>
+          <Condition />
+          <Cmd />
+        </Output>
+      </Outputs>
+      <Children />
+      <VirtualParents />
+      <Id>7DB35882EF05BECA</Id>
+      <Name>WhatName</Name>
+    </Rule>
+  </Rules>
+  <ResourceFiles />
+  <Info>
+    <Author />
+    <Copyright />
+    <License />
+    <AuthorWebsite />
+    <CreationDate>2021-08-02T01:02:39.0362895+08:00</CreationDate>
+    <LastUpdateDate>2021-08-16T01:22:10.8590666+08:00</LastUpdateDate>
+    <Rating>
+      <Rating>Unknown</Rating>
+      <Language>false</Language>
+      <Sexual>false</Sexual>
+      <Violence>false</Violence>
+      <Other>false</Other>
+      <Description />
+    </Rating>
+    <Category>Other</Category>
+    <Language>English</Language>
+    <Comment>Describe your KnowledgeBase here</Comment>
+  </Info>
+  <Version>1.0</Version>
+  <Build>141</Build>
+</KnowledgeBase>
